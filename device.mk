@@ -80,16 +80,24 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/com.nxp.mifare.xml:system/etc/permissions/com.nxp.mifare.xml \
     frameworks/native/data/etc/handheld_core_hardware.xml:system/etc/permissions/handheld_core_hardware.xml
 
-PRODUCT_PACKAGES += \
-    gralloc.exynos5
+
+#display
+#PRODUCT_PACKAGES += \
+#    gralloc.exynos5
 
 PRODUCT_PACKAGES += \
     libion \
-    libfimg
+    libfimg \
+    libhwc2on1adapter \
+    android.hardware.graphics.allocator@2.0-impl \
+    android.hardware.graphics.allocator@2.0-service \
+    android.hardware.graphics.composer@2.1-impl \
+    android.hardware.graphics.mapper@2.0-impl
+
 
 # hardware/samsung/AdvancedDisplay (MDNIE)
-PRODUCT_PACKAGES += \
-    AdvancedDisplay
+#PRODUCT_PACKAGES += \
+ #   AdvancedDisplay
 
 # Radio
 PRODUCT_PACKAGES += \
@@ -105,6 +113,10 @@ PRODUCT_PACKAGES += \
     ethertypes \
     libebtc
 
+# Memory
+PRODUCT_PACKAGES += \
+    android.hardware.memtrack@1.0-impl 
+
 # WiFi
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
@@ -117,7 +129,9 @@ PRODUCT_PACKAGES += \
     libwpa_client \
     wifiloader \
     wpa_supplicant \
-    wpa_supplicant.conf
+    wpa_supplicant.conf \
+    android.hardware.wifi@1.0-service
+
 
 # Audio
 PRODUCT_COPY_FILES += \
@@ -131,7 +145,9 @@ PRODUCT_PACKAGES += \
     audio.a2dp.default \
     audio.usb.default \
     audio.r_submix.default \
-    libtinycompress
+    libtinycompress \
+    android.hardware.audio@2.0-impl \
+    android.hardware.audio.effect@2.0-impl
 
 # Media
 PRODUCT_COPY_FILES += \
@@ -160,7 +176,8 @@ PRODUCT_COPY_FILES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    power.universal7870
+    power.universal7870 \
+    android.hardware.power@1.0-impl
 
 # Lights
 PRODUCT_PACKAGES += \
