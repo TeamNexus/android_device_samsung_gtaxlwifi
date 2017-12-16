@@ -31,6 +31,11 @@ TARGET_SCREEN_WIDTH := 1200
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_BOOTANIMATION_HALF_RES := true
 
+#BlueTooth
+PRODUCT_PACKAGES += \
+    android.hardware.bluetooth@1.0-impl \
+    libbt-vendor
+
 # Flat device tree for boot image
 #PRODUCT_PACKAGES += \
 #    dtbhtoolExynos
