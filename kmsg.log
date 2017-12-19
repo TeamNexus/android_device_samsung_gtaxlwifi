@@ -1,0 +1,1736 @@
+14,3855,3992179,+;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/scaling_max_freq 1000 1000 664
+14,3856,3992253,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/scaling_min_freq 1000 1000 664
+14,3857,3992356,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/timer_rate 1000 1000 660
+14,3858,3992426,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/timer_slack 1000 1000 660
+14,3859,3992493,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/min_sample_time 1000 1000 660
+14,3860,3992559,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/hispeed_freq 1000 1000 660
+14,3861,3992626,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/target_loads 1000 1000 660
+14,3862,3992693,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/go_hispeed_load 1000 1000 660
+14,3863,3992760,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/above_hispeed_delay 1000 1000 660
+14,3864,3992826,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/boost 1000 1000 660
+14,3865,3992892,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/boostpulse 1000 1000 200
+14,3866,3992959,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/input_boost 1000 1000 660
+14,3867,3993023,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/boostpulse_duration 1000 1000 660
+14,3868,3993089,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu5/cpufreq/interactive/io_is_busy 1000 1000 660
+14,3869,3993542,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/scaling_max_freq 1000 1000 664
+14,3870,3993619,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/scaling_min_freq 1000 1000 664
+14,3871,3993686,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/timer_rate 1000 1000 660
+14,3872,3993755,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/timer_slack 1000 1000 660
+14,3873,3993822,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/min_sample_time 1000 1000 660
+14,3874,3993888,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/hispeed_freq 1000 1000 660
+14,3875,3993955,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/target_loads 1000 1000 660
+14,3876,3994021,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/go_hispeed_load 1000 1000 660
+14,3877,3994087,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/above_hispeed_delay 1000 1000 660
+14,3878,3994154,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/boost 1000 1000 660
+14,3879,3994220,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/boostpulse 1000 1000 200
+14,3880,3994286,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/input_boost 1000 1000 660
+14,3881,3994351,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/boostpulse_duration 1000 1000 660
+14,3882,3994418,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu6/cpufreq/interactive/io_is_busy 1000 1000 660
+14,3883,3994876,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq 1000 1000 664
+14,3884,3994950,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/scaling_min_freq 1000 1000 664
+14,3885,3995016,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/timer_rate 1000 1000 660
+14,3886,3995083,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/timer_slack 1000 1000 660
+14,3887,3995149,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/min_sample_time 1000 1000 660
+14,3888,3995215,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/hispeed_freq 1000 1000 660
+14,3889,3995282,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/target_loads 1000 1000 660
+14,3890,3995348,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/go_hispeed_load 1000 1000 660
+14,3891,3995448,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/above_hispeed_delay 1000 1000 660
+14,3892,3995515,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/boost 1000 1000 660
+14,3893,3995581,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/boostpulse 1000 1000 200
+14,3894,3995647,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/input_boost 1000 1000 660
+14,3895,3995711,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/boostpulse_duration 1000 1000 660
+14,3896,3995777,-;[c0] ueventd: fixup /sys/devices/system/cpu/cpu7/cpufreq/interactive/io_is_busy 1000 1000 660
+6,3897,4004371,-;[c0] sec_chg_get_property: slow-charging mode
+6,3898,4004393,-;[c0] sec_bat_get_property cable type = 4 sleep_mode = 0
+14,3899,4073476,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/enable 0 1004 660
+14,3900,4073537,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/poll_delay 0 1004 660
+14,3901,4073597,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/poll_delay 1000 1001 660
+14,3902,4073648,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/enable 1000 1001 660
+14,3903,4073991,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/event0/enable 0 1004 660
+14,3904,4074047,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/event0/poll_delay 0 1004 660
+14,3905,4074108,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/event0/poll_delay 1000 1001 660
+14,3906,4074161,-;[c0] ueventd: fixup /sys/devices/virtual/input/input0/event0/enable 1000 1001 660
+14,3907,4074847,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/enable 0 1004 660
+14,3908,4074935,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/poll_delay 0 1004 660
+14,3909,4075007,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/poll_delay 1000 1001 660
+14,3910,4075062,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/enable 1000 1001 660
+14,3911,4075399,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/event2/enable 0 1004 660
+14,3912,4075455,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/event2/poll_delay 0 1004 660
+14,3913,4075516,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/event2/poll_delay 1000 1001 660
+14,3914,4075569,-;[c0] ueventd: fixup /sys/devices/virtual/input/input2/event2/enable 1000 1001 660
+14,3915,4076235,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/enable 0 1004 660
+14,3916,4076300,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/poll_delay 0 1004 660
+14,3917,4076369,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/poll_delay 1000 1001 660
+14,3918,4076422,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/enable 1000 1001 660
+14,3919,4076752,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/event3/enable 0 1004 660
+14,3920,4076807,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/event3/poll_delay 0 1004 660
+14,3921,4076868,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/event3/poll_delay 1000 1001 660
+14,3922,4076943,-;[c0] ueventd: fixup /sys/devices/virtual/input/input3/event3/enable 1000 1001 660
+14,3923,4077605,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/enable 0 1004 660
+14,3924,4077672,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/poll_delay 0 1004 660
+14,3925,4077732,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/poll_delay 1000 1001 660
+14,3926,4077782,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/enable 1000 1001 660
+14,3927,4078114,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/event4/enable 0 1004 660
+14,3928,4078168,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/event4/poll_delay 0 1004 660
+14,3929,4078230,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/event4/poll_delay 1000 1001 660
+14,3930,4078282,-;[c0] ueventd: fixup /sys/devices/virtual/input/input4/event4/enable 1000 1001 660
+14,3931,4134218,-;[c0] ueventd: Coldboot took 0.32989 seconds
+14,3932,4142460,-;[c3] init: Command 'wait_for_coldboot_done' action=wait_for_coldboot_done returned 0 took 344.457ms.
+14,3933,4142518,-;[c3] init: processing action (mix_hwrng_into_linux_rng)
+14,3934,4165004,-;[c3] init: Mixed 512 bytes from /dev/hw_random into /dev/urandom
+14,3935,4165055,-;[c3] init: processing action (set_mmap_rnd_bits)
+14,3936,4165299,-;[c3] init: processing action (set_kptr_restrict)
+14,3937,4165453,-;[c3] init: processing action (keychord_init)
+14,3938,4165495,-;[c3] init: processing action (console_init)
+14,3939,4165553,-;[c3] init: processing action (init)
+7,3940,4166132,-;[c3] SELinux: initialized (dev cgroup, type cgroup), uses genfs_contexts
+7,3941,4167418,-;[c3] SELinux: initialized (dev tmpfs, type tmpfs), uses transition SIDs
+11,3942,4170327,-;[c3] init: write_file: Unable to open '/proc/cpu/alignment': No such file or directory
+7,3943,4171286,-;[c3] SELinux: initialized (dev cgroup, type cgroup), uses genfs_contexts
+7,3944,4174085,-;[c3] SELinux: initialized (dev pstore, type pstore), uses genfs_contexts
+5,3945,4174353,-;[c3] Registered swp emulation handler
+11,3946,4174522,-;[c3] init: write_file: Unable to open '/sys/class/leds/vibrator/trigger': No such file or directory
+14,3947,4174683,-;[c3] init: starting service 'watchdogd'...
+11,3948,4175819,-;[c3] init: using deprecated syntax for specifying property 'ro.serialno', use ${name} instead
+14,3949,4176056,-;[c3] init: processing action (mix_hwrng_into_linux_rng)
+14,3950,4177320,-;[c1] watchdogd: watchdogd started (interval 10, margin 20)!
+14,3951,4198474,-;[c3] init: Mixed 512 bytes from /dev/hw_random into /dev/urandom
+14,3952,4198547,-;[c3] init: processing action (late-init)
+14,3953,4198621,-;[c3] init: processing action (queue_property_triggers)
+14,3954,4198671,-;[c3] init: processing action (fs)
+11,3955,4199583,-;[c6] init: [libfs_mgr]Not running /system/bin/tune2fs on /dev/block/platform/13540000.dwmmc0/by-name/SYSTEM (executable not in system image)
+6,3956,4202941,-;[c1] EXT4-fs (mmcblk0p19): mounted filesystem with ordered data mode. Opts: errors=panic
+7,3957,4202975,-;[c1] SELinux: initialized (dev mmcblk0p19, type ext4), uses xattr
+14,3958,4203131,-;[c1] init: [libfs_mgr]__mount(source=/dev/block/platform/13540000.dwmmc0/by-name/SYSTEM,target=/system,type=ext4)=0
+14,3959,4204660,-;[c1] init: [libfs_mgr]superblock s_max_mnt_count:65535,/dev/block/platform/13540000.dwmmc0/by-name/CACHE
+14,3960,4204690,-;[c1] init: [libfs_mgr]Requested quota status is match on /dev/block/platform/13540000.dwmmc0/by-name/CACHE
+4,3961,4204997,-;[c1] EXT4-fs (mmcblk0p20): Ignoring removed nomblk_io_submit option
+6,3962,4207268,-;[c1] EXT4-fs (mmcblk0p20): mounted filesystem with ordered data mode. Opts: errors=remount-ro,nomblk_io_submit
+7,3963,4207291,-;[c1] SELinux: initialized (dev mmcblk0p20, type ext4), uses xattr
+14,3964,4207395,-;[c1] init: [libfs_mgr]check_fs(): mount(/dev/block/platform/13540000.dwmmc0/by-name/CACHE,/cache,ext4)=0: Success
+14,3965,4208978,-;[c4] init: [libfs_mgr]check_fs(): unmount(/cache) succeeded
+14,3966,4209114,-;[c4] init: [libfs_mgr]Running /system/bin/e2fsck on /dev/block/platform/13540000.dwmmc0/by-name/CACHE
+14,3967,4257757,-;[c4] e2fsck: e2fsck 1.43.3 (04-Sep-2016)\x0a
+14,3968,4257797,-;[c4] e2fsck: /dev/block/platform/13540000.dwmmc0/by-name/CACHE: clean, 15/12800 files, 1875/51200 blocks\x0a
+6,3969,4260641,-;[c4] EXT4-fs (mmcblk0p20): mounted filesystem with ordered data mode. Opts: noauto_da_alloc,discard,journal_async_commit,errors=panic
+7,3970,4260669,-;[c4] SELinux: initialized (dev mmcblk0p20, type ext4), uses xattr
+14,3971,4260779,-;[c4] init: [libfs_mgr]__mount(source=/dev/block/platform/13540000.dwmmc0/by-name/CACHE,target=/cache,type=ext4)=0
+11,3972,4260863,-;[c4] init: [libfs_mgr]mount_with_alternatives(): skipping fstab dup mountpoint=/cache rec[4].fs_type=f2fs already mounted as ext4
+14,3973,4261327,-;[c4] init: [libfs_mgr]superblock s_max_mnt_count:65535,/dev/block/platform/13540000.dwmmc0/by-name/USERDATA
+14,3974,4261352,-;[c4] init: [libfs_mgr]Requested quota status is match on /dev/block/platform/13540000.dwmmc0/by-name/USERDATA
+4,3975,4261623,-;[c4] EXT4-fs (mmcblk0p22): Ignoring removed nomblk_io_submit option
+6,3976,4263722,-;[c4] EXT4-fs (mmcblk0p22): mounted filesystem with ordered data mode. Opts: errors=remount-ro,nomblk_io_submit
+7,3977,4263754,-;[c4] SELinux: initialized (dev mmcblk0p22, type ext4), uses xattr
+14,3978,4263883,-;[c4] init: [libfs_mgr]check_fs(): mount(/dev/block/platform/13540000.dwmmc0/by-name/USERDATA,/data,ext4)=0: Success
+14,3979,4264908,-;[c3] init: [libfs_mgr]check_fs(): unmount(/data) succeeded
+14,3980,4264958,-;[c3] init: [libfs_mgr]Running /system/bin/e2fsck on /dev/block/platform/13540000.dwmmc0/by-name/USERDATA
+14,3981,4297400,-;[c3] e2fsck: e2fsck 1.43.3 (04-Sep-2016)\x0a
+14,3982,4297442,-;[c3] e2fsck: /dev/block/platform/13540000.dwmmc0/by-name/USERDATA: clean, 3271/712704 files, 1362598/2845691 blocks\x0a
+6,3983,4299915,-;[c3] EXT4-fs (mmcblk0p22): mounted filesystem with ordered data mode. Opts: noauto_da_alloc,discard,journal_async_commit,errors=panic
+7,3984,4299943,-;[c3] SELinux: initialized (dev mmcblk0p22, type ext4), uses xattr
+14,3985,4300053,-;[c3] init: [libfs_mgr]__mount(source=/dev/block/platform/13540000.dwmmc0/by-name/USERDATA,target=/data,type=ext4)=0
+11,3986,4300141,-;[c3] init: [libfs_mgr]mount_with_alternatives(): skipping fstab dup mountpoint=/data rec[6].fs_type=f2fs already mounted as ext4
+14,3987,4302777,-;[c3] init: [libfs_mgr]superblock s_max_mnt_count:65535,/dev/block/platform/13540000.dwmmc0/by-name/EFS
+14,3988,4302806,-;[c3] init: [libfs_mgr]Requested quota status is match on /dev/block/platform/13540000.dwmmc0/by-name/EFS
+4,3989,4303153,-;[c3] EXT4-fs (mmcblk0p3): Ignoring removed nomblk_io_submit option
+6,3990,4304984,-;[c3] EXT4-fs (mmcblk0p3): mounted filesystem with ordered data mode. Opts: errors=remount-ro,nomblk_io_submit
+7,3991,4305008,-;[c3] SELinux: initialized (dev mmcblk0p3, type ext4), uses xattr
+14,3992,4305148,-;[c3] init: [libfs_mgr]check_fs(): mount(/dev/block/platform/13540000.dwmmc0/by-name/EFS,/efs,ext4)=0: Success
+14,3993,4306698,-;[c6] init: [libfs_mgr]check_fs(): unmount(/efs) succeeded
+14,3994,4306748,-;[c6] init: [libfs_mgr]Running /system/bin/e2fsck on /dev/block/platform/13540000.dwmmc0/by-name/EFS
+14,3995,4324220,-;[c6] e2fsck: e2fsck 1.43.3 (04-Sep-2016)\x0a
+14,3996,4324260,-;[c6] e2fsck: /dev/block/platform/13540000.dwmmc0/by-name/EFS: clean, 80/1280 files, 1175/5120 blocks\x0a
+6,3997,4326783,-;[c6] EXT4-fs (mmcblk0p3): mounted filesystem with ordered data mode. Opts: noauto_da_alloc,discard,journal_async_commit,errors=panic
+7,3998,4326807,-;[c6] SELinux: initialized (dev mmcblk0p3, type ext4), uses xattr
+14,3999,4326886,-;[c6] init: [libfs_mgr]__mount(source=/dev/block/platform/13540000.dwmmc0/by-name/EFS,target=/efs,type=ext4)=0
+14,4000,4327441,-;[c3] init: Parsing directory /system/etc/init...
+14,4001,4327880,-;[c3] init: Parsing file /system/etc/init/android.hidl.allocator@1.0-service.rc...
+14,4002,4328150,-;[c3] init: Parsing file /system/etc/init/atrace.rc...
+14,4003,4329394,-;[c3] init: Parsing file /system/etc/init/atrace_userdebug.rc...
+14,4004,4330029,-;[c3] init: Parsing file /system/etc/init/audioserver.rc...
+14,4005,4330366,-;[c3] init: Parsing file /system/etc/init/bootanim.rc...
+14,4006,4330611,-;[c3] init: Parsing file /system/etc/init/bootstat.rc...
+14,4007,4330929,-;[c3] init: Parsing file /system/etc/init/cameraserver.rc...
+14,4008,4331194,-;[c3] init: Parsing file /system/etc/init/drmserver.rc...
+11,4009,4331446,-;[c3] init: ignored duplicate definition of service 'drm'
+14,4010,4331471,-;[c3] init: Parsing file /system/etc/init/dumpstate.rc...
+14,4011,4331738,-;[c3] init: Parsing file /system/etc/init/gatekeeperd.rc...
+14,4012,4331952,-;[c3] init: Parsing file /system/etc/init/hwservicemanager.rc...
+14,4013,4332192,-;[c3] init: Parsing file /system/etc/init/init-debug.rc...
+14,4014,4332483,-;[c3] init: Parsing file /system/etc/init/installd.rc...
+14,4015,4333065,-;[c3] init: Parsing file /system/etc/init/keystore.rc...
+14,4016,4333296,-;[c3] init: Parsing file /system/etc/init/lmkd.rc...
+14,4017,4333522,-;[c3] init: Parsing file /system/etc/init/logcatd.rc...
+14,4018,4333792,-;[c3] init: Parsing file /system/etc/init/logd.rc...
+14,4019,4334110,-;[c3] init: Parsing file /system/etc/init/logtagd.rc...
+14,4020,4334337,-;[c3] init: Parsing file /system/etc/init/mdnsd.rc...
+14,4021,4334563,-;[c3] init: Parsing file /system/etc/init/mediadrmserver.rc...
+14,4022,4334785,-;[c3] init: Parsing file /system/etc/init/mediaextractor.rc...
+14,4023,4335006,-;[c3] init: Parsing file /system/etc/init/mediametrics.rc...
+14,4024,4335224,-;[c3] init: Parsing file /system/etc/init/mediaserver.rc...
+14,4025,4335497,-;[c3] init: Parsing file /system/etc/init/mtpd.rc...
+11,4026,4335755,-;[c3] init: /system/etc/init/mtpd.rc: 6: capabilities requested but the kernel does not support ambient capabilities
+11,4027,4335772,-;[c3] init: 
+14,4028,4335798,-;[c3] init: Parsing file /system/etc/init/netd.rc...
+14,4029,4336064,-;[c3] init: Parsing file /system/etc/init/perfprofd.rc...
+14,4030,4336300,-;[c3] init: Parsing file /system/etc/init/racoon.rc...
+11,4031,4336545,-;[c3] init: /system/etc/init/racoon.rc: 7: capabilities requested but the kernel does not support ambient capabilities
+11,4032,4336561,-;[c3] init: 
+14,4033,4336587,-;[c3] init: Parsing file /system/etc/init/servicemanager.rc...
+14,4034,4336863,-;[c3] init: Parsing file /system/etc/init/storaged.rc...
+14,4035,4337102,-;[c3] init: Parsing file /system/etc/init/superuser.rc...
+14,4036,4337360,-;[c3] init: Parsing file /system/etc/init/surfaceflinger.rc...
+14,4037,4337647,-;[c3] init: Parsing file /system/etc/init/tombstoned.rc...
+14,4038,4337907,-;[c3] init: Parsing file /system/etc/init/uncrypt.rc...
+14,4039,4338181,-;[c3] init: Parsing file /system/etc/init/vdc.rc...
+14,4040,4338416,-;[c3] init: Parsing file /system/etc/init/vold.rc...
+11,4041,4338781,-;[c3] init: /system/etc/init/vold.rc: 9: invalid keyword 'shutdown'
+11,4042,4338798,-;[c3] init: 
+14,4043,4338823,-;[c3] init: Parsing file /system/etc/init/webview_zygote32.rc...
+14,4044,4339173,-;[c3] init: Parsing file /system/etc/init/wifi-events.rc...
+14,4045,4339638,-;[c3] init: Parsing file /system/etc/init/wificond.rc...
+14,4046,4340344,-;[c3] init: Parsing directory /vendor/etc/init...
+14,4047,4340564,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.configstore@1.0-service.rc...
+14,4048,4340815,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.gnss@1.0-service.rc...
+14,4049,4341048,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.graphics.allocator@2.0-service.rc...
+11,4050,4341281,-;[c3] init: /vendor/etc/init/android.hardware.graphics.allocator@2.0-service.rc: 5: capabilities requested but the kernel does not support 
+14,4051,4341316,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.keymaster@3.0-service.rc...
+14,4052,4341543,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.media.omx@1.0-service.rc...
+14,4053,4341785,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.usb@1.0-service.rc...
+14,4054,4342003,-;[c3] init: Parsing file /vendor/etc/init/android.hardware.wifi@1.0-service.rc...
+14,4055,4342228,-;[c3] init: Parsing file /vendor/etc/init/hostapd.android.rc...
+11,4056,4342547,-;[c3] init: ignored duplicate definition of service 'hostapd'
+14,4057,4342575,-;[c3] init: Parsing file /vendor/etc/init/vndservicemanager.rc...
+14,4058,4342829,-;[c3] init: Parsing file /odm/etc/init...
+14,4059,4342921,-;[c3] init: Command 'mount_all /fstab.samsungexynos7870' action=fs (/init.samsungexynos7870.rc:637) returned 1 took 144.193ms.
+4,4060,4344976,-;[c3] EXT4-fs (mmcblk0p17): warning: maximal mount count reached, running e2fsck is recommended
+6,4061,4345215,-;[c3] EXT4-fs (mmcblk0p17): mounted filesystem with ordered data mode. Opts: noauto_da_alloc,discard,journal_async_commit,errors=panic
+7,4062,4345237,-;[c3] SELinux: initialized (dev mmcblk0p17, type ext4), uses xattr
+6,4063,4345279,-;[c3] SELinux:  Context u:object_r:persdata_data_file:s0 is not valid (left unmapped).
+3,4064,4348558,-;[c0] mmcblk0: card_busy_detect: command error reported, status 0x4000900
+6,4065,4348670,-;[c3] EXT4-fs (mmcblk0p4): mounted filesystem with ordered data mode. Opts: barrier=1
+7,4066,4348693,-;[c3] SELinux: initialized (dev mmcblk0p4, type ext4), uses xattr
+6,4067,4348737,-;[c3] SELinux:  Context u:object_r:sec_efs_file:s0 is not valid (left unmapped).
+14,4068,4353181,-;[c3] init: processing action (post-fs)
+11,4069,4354132,-;[c3] init: property_set("ro.adb.secure", "0") failed: property already set
+11,4070,4354160,-;[c3] init: property_set("ro.secure", "0") failed: property already set
+11,4071,4354186,-;[c3] init: property_set("ro.allow.mock.location", "0") failed: property already set
+11,4072,4354211,-;[c3] init: property_set("ro.debuggable", "1") failed: property already set
+12,4073,4354418,-;[c3] init: Couldn't load properties from /odm/build.prop: No such file or directory
+12,4074,4354466,-;[c3] init: Couldn't load properties from /vendor/build.prop: No such file or directory
+12,4075,4354528,-;[c3] init: Couldn't load properties from /factory/factory.prop: No such file or directory
+14,4076,4354641,-;[c3] init: [libfs_mgr]fs_mgr_read_fstab_dt(): failed to read fstab from dt
+14,4077,4355376,-;[c3] init: computing context for service 'logd'
+14,4078,4356186,-;[c3] init: starting service 'logd'...
+14,4079,4356850,-;[c3] init: computing context for service 'servicemanager'
+14,4080,4357019,-;[c3] init: starting service 'servicemanager'...
+14,4081,4357226,-;[c7] init: Created socket '/dev/socket/logd', mode 666, user 1036, group 1036
+14,4082,4357508,-;[c7] init: Created socket '/dev/socket/logdr', mode 666, user 1036, group 1036
+14,4083,4357648,-;[c3] init: computing context for service 'hwservicemanager'
+14,4084,4357793,-;[c7] init: Created socket '/dev/socket/logdw', mode 222, user 1036, group 1036
+14,4085,4357834,-;[c3] init: starting service 'hwservicemanager'...
+14,4086,4357881,-;[c7] init: Opened file '/proc/kmsg', flags 0
+14,4087,4357925,-;[c7] init: Opened file '/dev/kmsg', flags 1
+14,4088,4358814,-;[c3] init: computing context for service 'vndservicemanager'
+14,4089,4359020,-;[c3] init: starting service 'vndservicemanager'...
+38,4090,4384793,-;[c6] logd.auditd: start
+46,4091,4384830,-;[c6] logd.klogd: 4382551266
+14,4092,4430124,-;[c3] init: Command 'restorecon --recursive --cross-filesystems /sys/kernel/debug' action=post-fs (/init.rc:315) returned 0 took 70.2584ms.
+14,4093,4431299,-;[c3] selinux: SELinux: Skipping restorecon_recursive(/cache)\x0a
+11,4094,4435737,-;[c3] init: write_file: Unable to open '/sys/kernel/tracing/tracing_on': No such file or directory
+36,4095,4436508,-;[c4] type=1325 audit(3.519:3): table=mangle family=2 entries=0
+14,4096,4436755,-;[c3] init: processing action (late-fs)
+36,4097,4436876,-;[c4] type=1325 audit(3.519:3): table=mangle family=2 entries=0
+36,4098,4436893,-;[c4] type=1325 audit(3.519:4): table=nat family=2 entries=0
+36,4099,4437127,-;[c4] type=1325 audit(3.519:4): table=nat family=2 entries=0
+36,4100,4437143,-;[c4] type=1325 audit(3.519:5): table=raw family=2 entries=0
+14,4101,4437270,-;[c3] init: computing context for service 'keymaster-3-0'
+14,4102,4437426,-;[c3] init: starting service 'keymaster-3-0'...
+36,4103,4437460,-;[c4] type=1325 audit(3.519:5): table=raw family=2 entries=0
+36,4104,4437476,-;[c4] type=1325 audit(3.519:6): table=security family=2 entries=0
+36,4105,4437665,-;[c4] type=1325 audit(3.519:6): table=security family=2 entries=0
+36,4106,4437682,-;[c4] type=1325 audit(3.519:7): table=filter family=3 entries=0
+14,4107,4438048,-;[c3] init: processing action (post-fs-data)
+36,4108,4438081,-;[c4] type=1325 audit(3.519:7): table=filter family=3 entries=0
+36,4109,4438118,-;[c4] type=1325 audit(3.519:8): table=filter family=10 entries=0
+36,4110,4438346,-;[c4] type=1325 audit(3.519:8): table=filter family=10 entries=0
+36,4111,4438360,-;[c4] type=2 
+36,4112,4438473,-;[c4] type=2 
+36,4113,4438488,-;[c4] type=1325 audit(3.519:9): table=mangle family=10 entries=0
+14,4114,4438506,-;[c3] init: computing context for service 'vold'
+14,4115,4438653,-;[c3] init: starting service 'vold'...
+36,4116,4438726,-;[c4] type=1325 audit(3.519:9): table=mangle family=10 entries=0
+36,4117,4438742,-;[c4] type=1325 audit(3.519:10): table=raw family=10 entries=0
+36,4118,4439017,-;[c4] type=1325 audit(3.519:10): table=raw family=10 entries=0
+36,4119,4439033,-;[c4] type=1325 audit(3.519:11): table=nat family=10 entries=0
+36,4120,4439273,-;[c4] type=1325 audit(3.519:11): table=nat family=10 entries=0
+38,4121,4439289,-;[c4] type=1403 audit(1513604268.619:12): policy loaded auid=4294967295 ses=4294967295
+38,4122,4439499,-;[c4] type=1403 audit(1513604268.619:12): policy loaded auid=4294967295 ses=4294967295
+36,4123,4439528,-;[c4] type=1404 audit(1513604268.619:13): config_never_enforce - true; enforcing=0 old_enforcing=0 auid=4294967295 ses=4294967295
+36,4124,4439715,-;[c4] type=1404 audit(1513604268.619:13): config_never_enforce - true; enforcing=0 old_enforcing=0 auid=4294967295 ses=4294967295
+38,4125,4439732,-;[c4] type=1400 audit(1513604269.069:14): avc: denied { create } for pid=1 comm="init" name="sdcard" scontext=u:r:init:s0 tcontext=u:object_r:tmpfs:s0 tclass=lnk_file permissive=1
+14,4126,4439740,-;[c6] init: Created socket '/dev/socket/vold', mode 660, user 0, group 1009
+14,4127,4440032,-;[c6] init: Created socket '/dev/socket/cryptd', mode 660, user 0, group 1009
+38,4128,4440140,-;[c4] type=1400 audit(1513604269.069:14): avc: denied { create } for pid=1 comm="init" name="sdcard" scontext=u:r:init:s0 tcontext=u:object_r:tmpfs:s0 tclass=lnk_file permissive=1
+38,4129,4440158,-;[c4] type=1400 audit(1513604269.069:15): avc: denied { module_request } for pid=1 comm="init" kmod="fs-cpuset" scontext=u:r:init:s0 tcontext=u:r:kernel:s0 tclass=system permissive=1
+38,4130,4440332,-;[c4] type=1400 audit(1513604269.069:15): avc: denied { module_request } for pid=1 comm="init" kmod="fs-cpuset" scontext=u:r:init:s0 tcontext=u:r:kernel:s0 tclass=system permissive=1
+36,4131,4440353,-;[c4] type=1400 audit(1513604269.119:16): avc: granted { getattr } for pid=2324 comm="e2fsck" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:fsck:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4132,4440609,-;[c4] type=1400 audit(1513604269.119:16): avc: granted { getattr } for pid=2324 comm="e2fsck" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:fsck:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4133,4440629,-;[c4] type=1300 audit(1513604269.119:16): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffe85340 a2=ffe821d8 a3=100 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4134,4440830,-;[c4] type=1300 audit(1513604269.119:16): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffe85340 a2=ffe821d8 a3=100 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4135,4440849,-;[c4] type=1327 audit(1513604269.119:16): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4136,4441040,-;[c4] type=1327 audit(1513604269.119:16): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4137,4441072,-;[c4] type=1320 audit(1513604269.119:16): 
+36,4138,4441239,-;[c4] type=1320 audit(1513604269.119:16): 
+38,4139,4441257,-;[c4] type=1400 audit(1513604269.159:17): avc: denied { read } for pid=2324 comm="e2fsck" name="mmcblk0p20" dev="tmpfs" ino=13273 scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+38,4140,4441451,-;[c4] type=1400 audit(1513604269.159:17): avc: denied { read } for pid=2324 comm="e2fsck" name="mmcblk0p20" dev="tmpfs" ino=13273 scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+38,4141,4441469,-;[c4] type=1400 audit(1513604269.159:17): avc: denied { open } for pid=2324 comm="e2fsck" path="/dev/block/mmcblk0p20" dev="tmpfs" ino=13273 scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+38,4142,4441655,-;[c4] type=1400 audit(1513604269.159:17): avc: denied { open } for pid=2324 comm="e2fsck" path="/dev/block/mmcblk0p20" dev="tmpfs" ino=13273 scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+36,4143,4441674,-;[c4] type=1300 audit(1513604269.159:17): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=f0c25000 a2=20080 a3=0 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4144,4441911,-;[c4] type=1300 audit(1513604269.159:17): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=f0c25000 a2=20080 a3=0 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4145,4441930,-;[c4] type=1327 audit(1513604269.159:17): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4146,4442121,-;[c4] type=1327 audit(1513604269.159:17): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4147,4442137,-;[c4] type=1320 audit(1513604269.159:17): 
+36,4148,4442366,-;[c4] type=1320 audit(1513604269.159:17): 
+38,4149,4442384,-;[c4] type=1400 audit(1513604269.159:18): avc: denied { write } for pid=2324 comm="e2fsck" name="mmcblk0p20" dev="tmpfs" ino=13273 scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+38,4150,4442601,-;[c4] type=1400 audit(1513604269.159:18): avc: denied { write } for pid=2324 comm="e2fsck" name="mmcblk0p20" dev="tmpfs" ino=13273 scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+36,4151,4442632,-;[c4] type=1300 audit(1513604269.159:18): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=f0c25038 a2=20082 a3=0 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4152,4442820,-;[c4] type=1300 audit(1513604269.159:18): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=f0c25038 a2=20082 a3=0 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4153,4442838,-;[c4] type=1327 audit(1513604269.159:18): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4154,4443031,-;[c4] type=1327 audit(1513604269.159:18): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4155,4443047,-;[c4] type=1320 audit(1513604269.159:18): 
+36,4156,4443250,-;[c4] type=1320 audit(1513604269.159:18): 
+38,4157,4443268,-;[c4] type=1400 audit(1513604269.159:19): avc: denied { ioctl } for pid=2324 comm="e2fsck" path="/dev/block/mmcblk0p20" dev="tmpfs" ino=13273 ioctlcmd=127c scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+38,4158,4443468,-;[c4] type=1400 audit(1513604269.159:19): avc: denied { ioctl } for pid=2324 comm="e2fsck" path="/dev/block/mmcblk0p20" dev="tmpfs" ino=13273 ioctlcmd=127c scontext=u:r:fsck:s0 tcontext=u:object_r:block_device:s0 tclass=blk_file permissive=1
+36,4159,4443487,-;[c4] type=1300 audit(1513604269.159:19): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=4 a1=127c a2=ffe88400 a3=0 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4160,4443685,-;[c4] type=1300 audit(1513604269.159:19): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=4 a1=127c a2=ffe88400 a3=0 items=0 ppid=2315 pid=2324 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4161,4443704,-;[c4] type=1327 audit(1513604269.159:19): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4162,4443963,-;[c4] type=1327 audit(1513604269.159:19): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F4341434845
+36,4163,4443980,-;[c4] type=1320 audit(1513604269.159:19): 
+36,4164,4444192,-;[c4] type=1320 audit(1513604269.159:19): 
+36,4165,4444222,-;[c4] type=1400 audit(1513604269.169:20): avc: granted { getattr } for pid=2329 comm="e2fsck" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:fsck:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4166,4444422,-;[c4] type=1400 audit(1513604269.169:20): avc: granted { getattr } for pid=2329 comm="e2fsck" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:fsck:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4167,4444442,-;[c4] type=1300 audit(1513604269.169:20): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffcff360 a2=ffcfc1f8 a3=100 items=0 ppid=2315 pid=2329 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4168,4444640,-;[c4] type=1300 audit(1513604269.169:20): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffcff360 a2=ffcfc1f8 a3=100 items=0 ppid=2315 pid=2329 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4169,4444659,-;[c4] type=1327 audit(1513604269.169:20): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F5553455244415441
+36,4170,4444842,-;[c4] type=1327 audit(1513604269.169:20): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F5553455244415441
+36,4171,4444858,-;[c4] type=1320 audit(1513604269.169:20): 
+36,4172,4445078,-;[c4] type=1320 audit(1513604269.169:20): 
+38,4173,4445095,-;[c4] type=1400 audit(1513604269.209:21): avc: denied { mounton } for pid=2315 comm="init" path="/efs" dev="rootfs" ino=10308 scontext=u:r:init:s0 tcontext=u:object_r:efs_file:s0 tclass=dir permissive=1
+38,4174,4445298,-;[c4] type=1400 audit(1513604269.209:21): avc: denied { mounton } for pid=2315 comm="init" path="/efs" dev="rootfs" ino=10308 scontext=u:r:init:s0 tcontext=u:object_r:efs_file:s0 tclass=dir permissive=1
+36,4175,4445317,-;[c4] type=1300 audit(1513604269.209:21): arch=40000028 syscall=21 per=8 success=yes exit=0 a0=f75ceb40 a1=f75a1cb0 a2=f75a1cb8 a3=40a items=0 ppid=1 pid=2315 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,4176,4445531,-;[c4] type=1300 audit(1513604269.209:21): arch=40000028 syscall=21 per=8 success=yes exit=0 a0=f75ceb40 a1=f75a1cb0 a2=f75a1cb8 a3=40a items=0 ppid=1 pid=2315 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,4177,4445548,-;[c4] type=1327 audit(1513604269.209:21): proctitle="/init"
+36,4178,4445713,-;[c4] type=1327 audit(1513604269.209:21): proctitle="/init"
+36,4179,4445741,-;[c4] type=1320 audit(1513604269.209:21): 
+36,4180,4445907,-;[c4] type=1320 audit(1513604269.209:21): 
+36,4181,4445924,-;[c4] type=1400 audit(1513604269.209:22): avc: granted { getattr } for pid=2334 comm="e2fsck" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:fsck:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4182,4446154,-;[c4] type=1400 audit(1513604269.209:22): avc: granted { getattr } for pid=2334 comm="e2fsck" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:fsck:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4183,4446173,-;[c4] type=1300 audit(1513604269.209:22): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffce7790 a2=ffce4628 a3=100 items=0 ppid=2315 pid=2334 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4184,4446361,-;[c4] type=1300 audit(1513604269.209:22): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffce7790 a2=ffce4628 a3=100 items=0 ppid=2315 pid=2334 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="e2fsck" exe="/system/bin/e2fsck" subj=u:r:fsck:s0 key=(null)
+36,4185,4446379,-;[c4] type=1327 audit(1513604269.209:22): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F454653
+36,4186,4446582,-;[c4] type=1327 audit(1513604269.209:22): proctitle=2F73797374656D2F62696E2F65326673636B002D79002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F454653
+36,4187,4446598,-;[c4] type=1320 audit(1513604269.209:22): 
+36,4188,4446772,-;[c4] type=1320 audit(1513604269.209:22): 
+36,4189,4446788,-;[c4] type=1305 audit(1513604269.289:23): audit_pid=2342 old=0 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+36,4190,4446967,-;[c4] type=1305 audit(1513604269.289:23): audit_pid=2342 old=0 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+36,4191,4446983,-;[c4] type=1305 audit(1513604269.289:24): audit_rate_limit=20 old=0 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+14,4192,4525445,-;[c3] vdc: 200 2355 Command succeeded
+14,4193,4525942,-;[c3] init: init_user0 result: 0
+14,4194,4526601,-;[c3] selinux: SELinux: Skipping restorecon_recursive(/data)\x0a
+14,4195,4527010,-;[c3] init: computing context for service 'exec 1 (/system/bin/tzdatacheck)'
+14,4196,4527199,-;[c3] init: starting service 'exec 1 (/system/bin/tzdatacheck)'...
+14,4197,4527850,-;[c3] init: SVC_EXEC pid 2365 (uid 1000 gid 1000+0 context default) started; waiting...
+14,4198,4540852,-;[c1] init: Service 'exec 1 (/system/bin/tzdatacheck)' (pid 2365) exited with status 0 waiting took 0.013990 seconds
+6,4199,4550133,-;[c1] SELinux:  Context u:object_r:wifi_efs_file:s0 is not valid (left unmapped).
+6,4200,4551382,-;[c1] SELinux:  Context u:object_r:cpk_efs_file:s0 is not valid (left unmapped).
+6,4201,4552140,-;[c1] SELinux:  Context u:object_r:prov_efs_file:s0 is not valid (left unmapped).
+14,4202,4552420,-;[c1] init: computing context for service 'mobicore'
+11,4203,4552648,-;[c1] init: service mobicore does not have a SELinux domain defined
+14,4204,4552674,-;[c1] init: starting service 'mobicore'...
+6,4205,4553576,-;[c1] SELinux:  Context u:object_r:pfw_efs_file:s0 is not valid (left unmapped).
+36,4206,4553588,-;[c4] type=1305 audit(1513604269.289:24): audit_rate_limit=20 old=0 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+38,4207,4553608,-;[c4] type=1400 audit(1513604269.459:25): avc: denied { execute_no_trans } for pid=2418 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+11,4208,4553755,-;[c1] init: decode_uid: Unable to find UID for 'spay'; returning UINT_MAX
+11,4209,4553782,-;[c1] init: decode_uid: Unable to find UID for 'spay'; returning UINT_MAX
+11,4210,4554122,-;[c5] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+38,4211,4554179,-;[c4] type=1400 audit(1513604269.459:25): avc: denied { execute_no_trans } for pid=2418 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+36,4212,4554201,-;[c4] type=1300 audit(1513604269.459:25): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f6fd6f40 a2=107060 a3=80 items=0 ppid=1 pid=2418 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+11,4213,4554248,-;[c1] init: decode_uid: Unable to find UID for 'audit'; returning UINT_MAX
+11,4214,4554304,-;[c1] init: do_start: Service auditd not found
+36,4215,4554318,-;[c4] type=1300 audit(1513604269.459:25): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f6fd6f40 a2=107060 a3=80 items=0 ppid=1 pid=2418 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,4216,4554331,-;[c4] type=1327 audit(1513604269.459:25): proctitle="/init"
+36,4217,4554490,-;[c4] type=1327 audit(1513604269.459:25): proctitle="/init"
+36,4218,4554506,-;[c4] type=1320 audit(1513604269.459:25): 
+14,4219,4555533,-;[c1] init: Service 'mobicore' (pid 2418) exited with status 127
+14,4220,4555565,-;[c1] init: Sending signal 9 to service 'mobicore' (pid 2418) process group...
+11,4221,4555763,-;[c1] init: kill(2418, 9) failed: No such process
+14,4222,4560079,-;[c1] init: computing context for service 'logcatd'
+14,4223,4560251,-;[c1] init: starting service 'logcatd'...
+14,4224,4561844,-;[c1] init: processing action (ro.crypto.state=unencrypted && zygote-start)
+11,4225,4561877,-;[c1] init: ExecStart(update_verifier_nonencrypted): Service not found
+14,4226,4561983,-;[c1] init: computing context for service 'netd'
+14,4227,4562121,-;[c1] init: starting service 'netd'...
+14,4228,4563018,-;[c1] init: computing context for service 'zygote'
+14,4229,4563229,-;[c1] init: starting service 'zygote'...
+14,4230,4563395,-;[c0] init: Created socket '/dev/socket/netd', mode 660, user 0, group 1000
+14,4231,4563822,-;[c0] init: Created socket '/dev/socket/dnsproxyd', mode 660, user 0, group 3003
+11,4232,4563899,-;[c1] init: do_start: Service zygote_secondary not found
+14,4233,4563983,-;[c1] init: processing action (load_persist_props_action)
+12,4234,4564048,-;[c1] init: Couldn't load properties from /data/local.prop: No such file or directory
+14,4235,4564249,-;[c0] init: Created socket '/dev/socket/mdns', mode 660, user 0, group 1000
+14,4236,4564260,-;[c5] init: Created socket '/dev/socket/zygote', mode 660, user 0, group 1000
+14,4237,4564709,-;[c0] init: Created socket '/dev/socket/fwmarkd', mode 660, user 0, group 3003
+36,4238,4568999,-;[c4] type=1320 audit(1513604269.459:25): 
+36,4239,4569023,-;[c4] type=1400 audit(1513604269.469:26): avc: granted { getattr } for pid=2420 comm="netd" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4240,4569416,-;[c4] type=1400 audit(1513604269.469:26): avc: granted { getattr } for pid=2420 comm="netd" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4241,4569437,-;[c4] type=1300 audit(1513604269.469:26): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffbb5ba0 a2=ffbb2a38 a3=100 items=0 ppid=1 pid=2420 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="netd" exe="/system/bin/netd" subj=u:r:netd:s0 key=(null)
+36,4242,4569532,-;[c4] type=1300 audit(1513604269.469:26): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffbb5ba0 a2=ffbb2a38 a3=100 items=0 ppid=1 pid=2420 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="netd" exe="/system/bin/netd" subj=u:r:netd:s0 key=(null)
+36,4243,4569549,-;[c4] type=1327 audit(1513604269.469:26): proctitle="/system/bin/netd"
+36,4244,4569703,-;[c4] type=1327 audit(1513604269.469:26): proctitle="/system/bin/netd"
+36,4245,4569723,-;[c4] type=1320 audit(1513604269.469:26): 
+14,4246,4617591,-;[c2] init: Command 'load_persist_props' action=load_persist_props_action (/init.rc:250) returned 0 took 53.521ms.
+14,4247,4617663,-;[c2] init: computing context for service 'logd-reinit'
+14,4248,4617865,-;[c2] init: starting service 'logd-reinit'...
+14,4249,4618540,-;[c2] init: processing action (firmware_mounts_complete)
+14,4250,4618640,-;[c2] init: processing action (early-boot)
+14,4251,4625133,-;[c2] init: processing action (boot)
+14,4252,4627997,-;[c2] init: computing context for service 'hidl_memory'
+14,4253,4628177,-;[c2] init: starting service 'hidl_memory'...
+14,4254,4628961,-;[c2] init: computing context for service 'configstore-hal-1-0'
+14,4255,4629182,-;[c2] init: starting service 'configstore-hal-1-0'...
+14,4256,4629946,-;[c2] init: computing context for service 'gralloc-2-0'
+14,4257,4630188,-;[c2] init: starting service 'gralloc-2-0'...
+14,4258,4630929,-;[c2] init: computing context for service 'usb-hal-1-0'
+14,4259,4631179,-;[c2] init: starting service 'usb-hal-1-0'...
+14,4260,4631891,-;[c2] init: computing context for service 'wifi_hal_legacy'
+14,4261,4632102,-;[c2] init: starting service 'wifi_hal_legacy'...
+14,4262,4633084,-;[c2] init: computing context for service 'healthd'
+14,4263,4633343,-;[c2] init: starting service 'healthd'...
+14,4264,4634105,-;[c2] init: computing context for service 'prepare_param'
+11,4265,4634342,-;[c2] init: service prepare_param does not have a SELinux domain defined
+14,4266,4634368,-;[c2] init: starting service 'prepare_param'...
+11,4267,4635080,-;[c2] init: cannot find '/sbin/sswap', disabling 'swapon': No such file or directory
+14,4268,4635149,-;[c2] init: computing context for service 'mobicore'
+30,4269,4635288,-;[c3] logd.daemon: reinit
+11,4270,4635355,-;[c2] init: service mobicore does not have a SELinux domain defined
+14,4271,4635378,-;[c2] init: starting service 'mobicore'...
+11,4272,4636179,-;[c2] init: property_set("ro.boottime.mobicore", "4633496573") failed: property already set
+14,4273,4636458,-;[c2] init: computing context for service 'lmkd'
+11,4274,4636495,-;[c1] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+14,4275,4636675,-;[c2] init: starting service 'lmkd'...
+14,4276,4637746,-;[c2] init: computing context for service 'surfaceflinger'
+14,4277,4638020,-;[c2] init: starting service 'surfaceflinger'...
+14,4278,4639091,-;[c2] init: Service 'logd-reinit' (pid 2422) exited with status 0
+14,4279,4639283,-;[c2] init: Service 'mobicore' (pid 2430) exited with status 127
+14,4280,4639323,-;[c2] init: Sending signal 9 to service 'mobicore' (pid 2430) process group...
+11,4281,4639509,-;[c2] init: kill(2430, 9) failed: No such process
+36,4282,4640473,-;[c5] type=1320 audit(1513604269.469:26): 
+36,4283,4640498,-;[c5] type=1400 audit(1513604269.539:27): avc: granted { getattr } for pid=2431 comm="iptables-restor" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4284,4640808,-;[c5] type=1400 audit(1513604269.539:27): avc: granted { getattr } for pid=2431 comm="iptables-restor" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4285,4640829,-;[c5] type=1300 audit(1513604269.539:27): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ff7ff8f0 a2=ff7fc788 a3=100 items=0 ppid=2420 pid=2431 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables-restor" exe="/system/bin/iptables" subj=u:r:netd:s0 key=(null)
+36,4286,4640918,-;[c5] type=1300 audit(1513604269.539:27): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ff7ff8f0 a2=ff7fc788 a3=100 items=0 ppid=2420 pid=2431 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables-restor" exe="/system/bin/iptables" subj=u:r:netd:s0 key=(null)
+36,4287,4640935,-;[c5] type=1327 audit(1513604269.539:27): proctitle=2F73797374656D2F62696E2F69707461626C65732D726573746F7265002D2D6E6F666C757368002D77002D76
+36,4288,4641085,-;[c5] type=1327 audit(1513604269.539:27): proctitle=2F73797374656D2F62696E2F69707461626C65732D726573746F7265002D2D6E6F666C757368002D77002D76
+36,4289,4641101,-;[c5] type=1320 audit(1513604269.539:27): 
+14,4290,4641865,-;[c0] init: Created socket '/dev/socket/lmkd', mode 660, user 1000, group 1000
+11,4291,4641876,-;[c1] init: Failed to bind socket 'pdx/system/vr/display/client': No such file or directory
+11,4292,4642202,-;[c1] init: Failed to bind socket 'pdx/system/vr/display/manager': No such file or directory
+36,4293,4644646,-;[c7] type=1320 audit(1513604269.539:27): 
+38,4294,4644673,-;[c7] type=1400 audit(1513604269.549:28): avc: denied { sys_module } for pid=1 comm="init" capability=16 scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=capability permissive=1
+11,4295,4652846,-;[c1] init: Failed to bind socket 'pdx/system/vr/display/vsync': No such file or directory
+38,4296,4663771,-;[c7] type=1400 audit(1513604269.549:28): avc: denied { sys_module } for pid=1 comm="init" capability=16 scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=capability permissive=1
+36,4297,4663794,-;[c7] type=1325 audit(1513604269.569:29): table=filter family=2 entries=4
+36,4298,4663963,-;[c7] type=1325 audit(1513604269.569:29): table=filter family=2 entries=4
+36,4299,4663979,-;[c7] type=1320 audit(1513604269.569:29): 
+36,4300,4679545,-;[c4] type=1320 audit(1513604269.569:29): 
+36,4301,4679570,-;[c4] type=1400 audit(1513604269.579:30): avc: granted { getattr } for pid=2436 comm="ip6tables-resto" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4302,4679929,-;[c4] type=1400 audit(1513604269.579:30): avc: granted { getattr } for pid=2436 comm="ip6tables-resto" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4303,4679952,-;[c4] type=1300 audit(1513604269.579:30): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ff8b4390 a2=ff8b1228 a3=100 items=0 ppid=2420 pid=2436 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ip6tables-resto" exe="/system/bin/ip6tables" subj=u:r:netd:s0 key=(null)
+36,4304,4680052,-;[c4] type=1300 audit(1513604269.579:30): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ff8b4390 a2=ff8b1228 a3=100 items=0 ppid=2420 pid=2436 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ip6tables-resto" exe="/system/bin/ip6tables" subj=u:r:netd:s0 key=(null)
+36,4305,4680070,-;[c4] type=1327 audit(1513604269.579:30): proctitle=2F73797374656D2F62696E2F6970367461626C65732D726573746F7265002D2D6E6F666C757368002D77002D76
+36,4306,4680272,-;[c4] type=1327 audit(1513604269.579:30): proctitle=2F73797374656D2F62696E2F6970367461626C65732D726573746F7265002D2D6E6F666C757368002D77002D76
+36,4307,4680288,-;[c4] type=1320 audit(1513604269.579:30): 
+12,4308,4683849,-;[c3] healthd: unable to get HAL interface, using defaults
+12,4309,4686325,-;[c3] healthd: BatteryFullChargePath not found
+12,4310,4686351,-;[c3] healthd: BatteryCycleCountPath not found
+12,4311,4687187,-;[c3] healthd: battery l=19 v=3710 t=26.0 h=2 st=2 ca=0 cv=0 c=0 chg=u
+36,4312,4690298,-;[c5] type=1320 audit(1513604269.579:30): 
+36,4313,4690321,-;[c5] type=1325 audit(1513604269.589:31): table=filter family=10 entries=4
+36,4314,4690514,-;[c5] type=1325 audit(1513604269.589:31): table=filter family=10 entries=4
+36,4315,4690530,-;[c5] type=1320 audit(1513604269.589:31): 
+36,4316,4690756,-;[c5] type=1320 audit(1513604269.589:31): 
+36,4317,4690772,-;[c5] type=1325 audit(1513604269.589:32): table=filter family=2 entries=10
+36,4318,4690916,-;[c5] type=1325 audit(1513604269.589:32): table=filter family=2 entries=10
+36,4319,4690932,-;[c5] type=1320 audit(1513604269.589:32): 
+36,4320,4691224,-;[c5] type=1320 audit(1513604269.589:32): 
+36,4321,4691243,-;[c5] type=1325 audit(1513604269.589:33): table=filter family=10 entries=10
+36,4322,4691429,-;[c5] type=1325 audit(1513604269.589:33): table=filter family=10 entries=10
+36,4323,4691444,-;[c5] type=1320 audit(1513604269.589:33): 
+36,4324,4694749,-;[c4] type=1320 audit(1513604269.589:33): 
+36,4325,4694778,-;[c4] type=1400 audit(1513604269.599:34): avc: granted { getattr } for pid=2437 comm="iptables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4326,4695116,-;[c4] type=1400 audit(1513604269.599:34): avc: granted { getattr } for pid=2437 comm="iptables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4327,4695137,-;[c4] type=1300 audit(1513604269.599:34): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ff8ef610 a2=ff8ec4a8 a3=100 items=0 ppid=2420 pid=2437 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/system/bin/iptables" subj=u:r:netd:s0 key=(null)
+36,4328,4695228,-;[c4] type=1300 audit(1513604269.599:34): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ff8ef610 a2=ff8ec4a8 a3=100 items=0 ppid=2420 pid=2437 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/system/bin/iptables" subj=u:r:netd:s0 key=(null)
+36,4329,4695246,-;[c4] type=1327 audit(1513604269.599:34): proctitle=2F73797374656D2F62696E2F69707461626C6573002D77002D740066696C746572002D44004F5554505554002D6A006F656D5F6F7574
+36,4330,4695419,-;[c4] type=1327 audit(1513604269.599:34): proctitle=2F73797374656D2F62696E2F69707461626C6573002D77002D740066696C746572002D44004F5554505554002D6A006F656D5F6F7574
+36,4331,4695438,-;[c4] type=1320 audit(1513604269.599:34): 
+36,4332,4707605,-;[c5] type=1320 audit(1513604269.599:34): 
+36,4333,4707630,-;[c5] type=1400 audit(1513604269.609:35): avc: granted { getattr } for pid=2438 comm="ip6tables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4334,4707953,-;[c5] type=1400 audit(1513604269.609:35): avc: granted { getattr } for pid=2438 comm="ip6tables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4335,4707974,-;[c5] type=1300 audit(1513604269.609:35): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffd25280 a2=ffd22118 a3=100 items=0 ppid=2420 pid=2438 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ip6tables" exe="/system/bin/ip6tables" subj=u:r:netd:s0 key=(null)
+36,4336,4708067,-;[c5] type=1300 audit(1513604269.609:35): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffd25280 a2=ffd22118 a3=100 items=0 ppid=2420 pid=2438 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ip6tables" exe="/system/bin/ip6tables" subj=u:r:netd:s0 key=(null)
+36,4337,4708086,-;[c5] type=1327 audit(1513604269.609:35): proctitle=2F73797374656D2F62696E2F6970367461626C6573002D77002D740066696C746572002D44004F5554505554002D6A006F656D5F6F7574
+36,4338,4708238,-;[c5] type=1327 audit(1513604269.609:35): proctitle=2F73797374656D2F62696E2F6970367461626C6573002D77002D740066696C746572002D44004F5554505554002D6A006F656D5F6F7574
+36,4339,4708254,-;[c5] type=1320 audit(1513604269.609:35): 
+36,4340,4719785,-;[c0] type=1320 audit(1513604269.609:35): 
+36,4341,4719811,-;[c0] type=1400 audit(1513604269.619:36): avc: granted { getattr } for pid=2440 comm="iptables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4342,4720210,-;[c0] type=1400 audit(1513604269.619:36): avc: granted { getattr } for pid=2440 comm="iptables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4343,4720235,-;[c0] type=1300 audit(1513604269.619:36): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=fffe68b0 a2=fffe3748 a3=100 items=0 ppid=2420 pid=2440 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/system/bin/iptables" subj=u:r:netd:s0 key=(null)
+36,4344,4720332,-;[c0] type=1300 audit(1513604269.619:36): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=fffe68b0 a2=fffe3748 a3=100 items=0 ppid=2420 pid=2440 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="iptables" exe="/system/bin/iptables" subj=u:r:netd:s0 key=(null)
+36,4345,4720376,-;[c0] type=1327 audit(1513604269.619:36): proctitle=2F73797374656D2F62696E2F69707461626C6573002D77002D740066696C746572002D44004F5554505554002D6A0066775F4F5554505554
+36,4346,4720671,-;[c0] type=1327 audit(1513604269.619:36): proctitle=2F73797374656D2F62696E2F69707461626C6573002D77002D740066696C746572002D44004F5554505554002D6A0066775F4F5554505554
+36,4347,4720693,-;[c0] type=1320 audit(1513604269.619:36): 
+7,4348,4721550,-;[c7] calling  hdd_module_init+0x0/0x1f4 [wlan] @ 1
+6,4349,4721573,-;[c7] wlan: loading driver v4.0.10.205P_0204
+4,4350,4731435,-;[c1] audit: audit_lost=1 audit_rate_limit=20 audit_backlog_limit=64
+3,4351,4731452,-;[c1] audit: rate limit exceeded
+36,4352,4731505,-;[c3] type=1320 audit(1513604269.619:36): 
+36,4353,4731525,-;[c3] type=1400 audit(1513604269.629:37): avc: granted { getattr } for pid=2442 comm="ip6tables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4354,4731856,-;[c3] type=1400 audit(1513604269.629:37): avc: granted { getattr } for pid=2442 comm="ip6tables" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:netd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4355,4731877,-;[c3] type=1300 audit(1513604269.629:37): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffecf550 a2=ffecc3e8 a3=100 items=0 ppid=2420 pid=2442 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ip6tables" exe="/system/bin/ip6tables" subj=u:r:netd:s0 key=(null)
+3,4356,4733723,-;[c7] wlan_platform_sdio_enumerate: notify_func=ffffffc0006229a0, mmc_host_dev=ffffffc07b3d0c18, device_present=1
+3,4357,4733740,-;[c7] card inserted
+6,4358,4733774,-;[c7] cnss_sdio: driver successfully registered
+3,4359,4734080,-;[c0] hifDeviceInserted: Dumping clocks (50000000,200000000)
+4,4360,4734094,-;[c0] HIFDumpCCCR 0(43) 1(3) 2(0) 3(0) 4(0) 5(0) 6(0) 7(6) 8(17) 9(0) A(10) B(0) C(0) D(0) E(0) F(0) 10(0) 11(0) 12(1) 13(7) 14(7) 15(37) 16(1) 
+3,4361,4734572,-;[c0] AR6000: Set async interrupt delay clock as 2.
+7,4362,4760476,-;[c0] /proc/cld/athdiagpfs created
+4,4363,4762124,-;[c1] [WIFI] gEnableImps: original_value  = 1[WIFI] gEnableImps: sec_control_psm = 1[WIFI] gEnableBmps: original_value  = 1[WIFI] gEnableBmps: sec_control_psm = 1[WIFI] gEnableFWRssiMonitoring: original_value  = 1[WIFI] gEnableFWRssiMonitoring: sec_control_psm = 1[WIFI] FastRoamEnabled: original_value  = 1[WIFI] FastRoamEnabled: sec_control_psm = 1[WIFI] FastTransitionEnabled: original_value  = 1[WIFI] FastTransitionEnabled: sec_control_psm = 1AR6000: configuration opcode 3 is not used for Linux SDIO stack 
+4,4364,4873374,-;[c3] NUM_DEV=1 FWMODE=0x2 FWSUBMODE=0x0 FWBR_BUF 0
+7,4365,4874083,-;[c1] crystal_freq: 48000000Hz
+7,4366,4874298,-;[c1] Step 1a:    66666
+7,4367,4874609,-;[c1] Step 1b:    6AAA8
+7,4368,4874809,-;[c1] Step 2a:      400
+7,4369,4875122,-;[c1] Step 2b:      160
+7,4370,4875296,-;[c1] Step 3a:        0
+7,4371,4875607,-;[c1] Step 3b:        1
+7,4372,4875917,-;[c1] Step 5a:    11458
+7,4373,4876326,-;[c1] Step 5b:    5000E
+7,4374,4876744,-;[c3] Step 7a:    5000E
+7,4375,4878750,-;[c3] Step 7b:    4000E
+7,4376,4879136,-;[c3] Step 9a:        3
+7,4377,4879403,-;[c3] Step 9b:        1
+7,4378,4879561,-;[c3] Step 10a:    4000E
+7,4379,4879792,-;[c3] Step 10b:        E
+4,4380,4879950,-;[c3] ol_download_firmware: Using 0x1234 for the remainder of init
+3,4381,4923287,-;[c3] wlan: [1:E :VOS] __ol_transfer_bin_file: transferring file: otp30.bin size 24917 bytes done!
+7,4382,4923571,-;[c3] ol_download_firmware: chip_id:0x5020001 board_id:0x0
+4,4383,4924273,-;[c3] Update boarddata using the cached data. There are 0 sections.
+4,4384,4924287,-;[c3] cnss: CleanQ depth 16, DirtyQ depth 0
+3,4385,4924297,-;[c3] wlan: updata boarddata succeed.
+4,4386,4924461,-;[c3] Board extended Data download address: 0x0
+4,4387,4932634,-;[c3] mmc_rescan ,Index:mmc1, rescan_disable:0, rescan_entered:1
+3,4388,4937862,-;[c0] wlan: [1:E :VOS] __ol_transfer_bin_file: transferring file: bdwlan30.bin size 8124 bytes done!
+2,4389,5063100,-;[c4] IPv6: ipv6_generate_eui64: dev type: 1
+3,4390,5238123,-;[c2] wlan: [1:E :VOS] __ol_transfer_bin_file: transferring file: qwlan30.bin size 575540 bytes done!
+4,4391,5239039,-;[c2] +HTCCreate ..  HIF :ffffffc06f82a000 
+4,4392,5239072,-;[c2] HIF Interrupt processing is SYNC ONLY
+4,4393,5239084,-;[c2] AR6000: configuration opcode 7 is only used for RTOS systems, not Linux systems
+4,4394,5239095,-;[c2] AR6000: configuration opcode 5 is not used for Linux SDIO stack 
+3,4395,5239158,-;[c2] cnss_wlan_unregister_oob_irq_handler: no OOB task is running
+4,4396,5239171,-;[c2] -HTCCreate (0xffffffc07b667000) 
+3,4397,5239286,-;[c2] wlan: [1:F :WDA] WMA --> wmi_unified_attach - success
+4,4398,5239306,-;[c2] ol_if_dfs_attach: called; ptr=ffffffc077af1c54, radar_info=ffffffc07c4af6a8
+3,4399,5239435,-;[c2] wlan: [1:E :SAP] dfs_init_radar_filters[201]: Unknown dfs domain 0 
+4,4400,5239514,-;[c2] +HWT
+3,4401,5239572,-;[c2] cnss_wlan_unregister_oob_irq_handler: no OOB task is running
+6,4402,5239587,-;[c2] cnss_wlan_register_oob_irq_handler: handler=ffffffbffc1cb9e0, pm_oob=ffffffc06f5d4800
+6,4403,5239598,-;[c2] wlan_oob_irq_get: try to create the oob task
+6,4404,5239678,-;[c2] wlan_oob_irq_get: successfully start oob task
+4,4405,5239744,-;[c2] +HTCWaitCtrlMessageRecv
+4,4406,5244108,-;[c2] Target Ready! : transmit resources : 3 size:1792, MaxMsgsPerHTCBundle = 32
+4,4407,5244125,-;[c2] HTC Service Index : 1 TX : 0x100 : alloc:3 
+4,4408,5244137,-;[c2] +HTCConnectService, target:ffffffc07b667000 SvcID:0x1 
+4,4409,5244151,-;[c2] HTC Service:0x0001, ULpipe:1 DLpipe:0 id:0 Ready
+4,4410,5244161,-;[c2] -HWT
+4,4411,5244326,-;[c2] MAILBOX SWAP Service is enabled!
+4,4412,5244337,-;[c2] Reduced Tx Complete service is enabled!
+4,4413,5245546,-;[c2] is_full_reorder_offloaded? 0
+4,4414,5245558,-;[c2] +HTCConnectService, target:ffffffc07b667000 SvcID:0x300 
+4,4415,5245569,-;[c2] HTC Service TX : 0x300 : allocation is zero! 
+4,4416,5245594,-;[c2] +HTCWaitCtrlMessageRecv
+4,4417,5262614,-;[c2] HTCConnectService, service 0x300 connect response from target status:0, assigned ep: 1
+4,4418,5262629,-;[c2] HTC Service:0x0300, ULpipe:1 DLpipe:0 id:1 Ready
+4,4419,5262640,-;[c2] HTC Service:0x0300 ep:1 TX flow control disabled
+4,4420,5263747,-;[c2] +HTCConnectService, target:ffffffc07b667000 SvcID:0x100 
+4,4421,5263783,-;[c2] +HTCWaitCtrlMessageRecv
+4,4422,5282797,-;[c2] HTCConnectService, service 0x100 connect response from target status:0, assigned ep: 2
+4,4423,5282813,-;[c2] HTC Service:0x0100, ULpipe:3 DLpipe:2 id:2 Ready
+3,4424,5282827,-;[c2] wlan: [1:F :WDA] WMA --> wmi_unified_connect_htc_service - success
+3,4425,5282902,-;[c0] wlan: [2448:F :WDA] McThread: WNI_CFG_DNLD_REQ
+4,4426,5282981,-;[c2] HTC using TX credit flow control
+6,4427,5322738,-;[c1] __wmi_control_rx: WMI UNIFIED SERVICE READY event
+3,4428,5322753,-;[c1] wlan: [1450:F :WDA] WMA <-- WMI_SERVICE_READY_EVENTID
+3,4429,5322767,-;[c1] wlan: [1450:E :WDA] wma_rx_service_ready_event: Firmware build version : 0000006a
+3,4430,5322780,-;[c1] wlan: [1450:E :WDA] wma_rx_service_ready_event: Board version: 0.22014009
+3,4431,5322799,-;[c1] wlan: [1450:F :WDA] WMA --> WMI_INIT_CMDID
+6,4432,5342658,-;[c1] __wmi_control_rx:  WMI UNIFIED READY event
+3,4433,5342674,-;[c1] wlan: [1450:F :WDA] WMA <-- WMI_READY_EVENTID
+3,4434,5343355,-;[c2] wlan: [1:E :SME] csr_init_chan_list: 341: init time country code GB
+6,4435,5343391,-;[c2] cfg80211: Calling CRDA for country: GB
+3,4436,5343543,-;[c2] wlan: [2464:F :HDD] pAdapter is null !!
+3,4437,5343597,-;[c2] wlan: [2464:E :WDA] regdmn_set_dfs_region: dfs_region: 2
+6,4438,5343610,-;[c2] cfg80211: Regulatory domain changed to country: GB
+6,4439,5343621,-;[c2] cfg80211:  DFS Master region: ETSI
+6,4440,5343630,-;cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+6,4441,5343644,-;[c2] cfg80211:   (2402000 KHz - 2482000 KHz @ 40000 KHz), (N/A, 2000 mBm), (N/A)
+6,4442,5343657,-;[c2] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+6,4443,5343671,-;[c2] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+6,4444,5343685,-;[c2] cfg80211:   (5490000 KHz - 5710000 KHz @ 160000 KHz), (N/A, 2700 mBm), (0 s)
+6,4445,5343697,-;[c2] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 1400 mBm), (N/A)
+3,4446,5344033,-;[c2] wlan: [1:E :WDA] MCC TX Pause Event Handler register
+3,4447,5344051,-;[c2] wlan: [1:E :WDA] Target does not support cesium network
+3,4448,5344062,-;[c0] wlan: [2448:E :WDA] Invalid wda_cli_set pdev command/Not yet implemented 0x4d
+4,4449,5345558,-;[c2] Assigned Interface Index 0
+3,4450,5345644,-;[c1] wlan: [2448:E :WDA] wma_unified_vdev_create_send: ID = 0 VAP Addr = e0:aa:96:97:99:58
+4,4451,5346740,-;[c2] Assigned Interface Index 1
+3,4452,5346757,-;[c3] wlan: [2448:E :WDA] Invalid wda_cli_set pdev command/Not yet implemented 0x34
+4,4453,5346800,c;[c3] wmi_dbg_cfg_send: param 0x1 val 0xffff0004 \x0a wmi_dbg_cfg_send: param 0x1 val 0x10000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x20000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x40000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x50000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x60000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x70004 \x0a wmi_dbg_cfg_send: param 0x1 val 0x80000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x90000 \x0a wmi_dbg_cfg_send: param 0x1 val 0xb0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0xd0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x110000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x120000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x130000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x1b0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x1d0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x1f0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x230000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x240000 \x0a 
+4,4454,5347003,+;wmi_dbg_cfg_send: param 0x1 val 0x260000 \x0a 
+3,4455,5347036,-;wlan: [2448:E :WDA] wma_unified_vdev_create_send: ID = 1 VAP Addr = e2:aa:96:97:99:58
+3,4456,5347060,-;[c3] wlan: [2448:F :WDA] P2P Device: creating self peer e2:aa:96:97:99:58, vdev_id 1
+3,4457,5347094,-;[c3] wlan: [2448:E :WDA] wma_create_peer: Created peer with peer_addr e2:aa:96:97:99:58 vdev_id 1, peer_count - 1
+3,4458,5348210,-;[c3] wlan: [2448:E :WDA] Invalid wda_cli_set pdev command/Not yet implemented 0x34
+4,4459,5348244,c;[c3] wmi_dbg_cfg_send: param 0x1 val 0xffff0004 \x0a wmi_dbg_cfg_send: param 0x1 val 0x10000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x20000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x40000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x50000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x60000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x70004 \x0a wmi_dbg_cfg_send: param 0x1 val 0x80000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x90000 \x0a wmi_dbg_cfg_send: param 0x1 val 0xb0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0xd0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x110000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x120000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x130000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x1b0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x1d0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x1f0000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x230000 \x0a wmi_dbg_cfg_send: param 0x1 val 0x240000 \x0a 
+4,4460,5348446,+;wmi_dbg_cfg_send: param 0x1 val 0x260000 \x0a 
+6,4461,5348513,-;Host SW:4.0.10.205P_0204, FW:0.0.0.106, HW:QCA9377_REV1_1
+3,4462,5348649,-;[c2] wlan: [1:E :HDD] hdd_wlan_startup: 13844: set tsf GPIO fail
+6,4463,5348704,-;[c2] ol_pktlog_init: pktlogmod_init successfull
+6,4464,5348801,-;[c2] ath_hif_sdio: HIF (Atheros/multi-bss)
+6,4465,5348822,-;[c2] wlan: driver loaded
+7,4466,5348853,-;[c2] /proc/debug/fwdump created
+7,4467,5349064,-;[c2] initcall hdd_module_init+0x0/0x1f4 [wlan] returned 0 after 612595 usecs
+14,4468,5349618,-;[c2] init: Command 'insmod /system/lib/modules/qca_cld/qca_cld_wlan.ko' action=boot (/init.samsungexynos7870.rc:69) returned 0 took 709.926ms.
+11,4469,5354135,-;[c2] init: property_set("ro.bt.bdaddr_path", "/efs/bluetooth/bt_addr") failed: property already set
+4,4470,5364014,-;[c1] target uses HTT version 3.32; host uses 3.27
+4,4471,5364030,-;[c1] *** Warning: host/target HTT versions are different, though compatible!
+11,4472,5364757,-;[c2] init: property_set("ro.bt.bdaddr_path", "/efs/bluetooth/bt_addr") failed: property already set
+11,4473,5364805,-;[c2] init: decode_uid: Unable to find UID for 'net_bt_stack'; returning UINT_MAX
+11,4474,5364852,-;[c2] init: decode_uid: Unable to find UID for 'net_bt_stack'; returning UINT_MAX
+4,4475,5364860,-;[c1] 4 log buffers are dropped 
+11,4476,5365014,-;[c2] init: decode_uid: Unable to find UID for 'net_bt_stack'; returning UINT_MAX
+11,4477,5365072,-;[c2] init: decode_uid: Unable to find UID for 'net_bt_stack'; returning UINT_MAX
+6,4478,5366912,-;[c2] SELinux:  Context u:object_r:app_efs_file:s0 is not valid (left unmapped).
+6,4479,5368846,-;[c2] SELinux:  Context u:object_r:battery_efs_file:s0 is not valid (left unmapped).
+11,4480,5369806,-;[c2] init: write_file: Unable to open '/sys/class/power_supply/battery/batt_update_data': Permission denied
+14,4481,5379294,-;[c2] init: processing action (persist.sys.usb.config=* && boot)
+14,4482,5379358,-;[c2] init: processing action (enable_property_trigger)
+14,4483,5379594,-;[c2] init: processing action (ro.debuggable=1)
+11,4484,5379739,-;[c2] init: service 'console' couldn't open console '/dev/console': No such device
+11,4485,5379786,-;[c2] init: write_file: Unable to open '/sys/module/kgdboc/parameters/kgdboc': No such file or directory
+11,4486,5379828,-;[c2] init: write_file: Unable to open '/sys/module/fiq_debugger/parameters/kgdb_enable': No such file or directory
+14,4487,5379862,-;[c2] init: processing action (sys.usb.config=adb && sys.usb.configfs=0)
+7,4488,5379916,-;[c2] usb: enable_store enabled=0, !dev->enabled=1
+3,4489,5379928,-;[c2] android_usb: already disabled
+7,4490,5380049,-;[c2] usb: functions_store buff=adb
+7,4491,5380065,-;[c2] usb: android_enable_function name=adb
+7,4492,5380111,-;[c2] usb: enable_store enabled=1, !dev->enabled=1
+7,4493,5380122,-;[c2] usb: enable_store f:adb
+7,4494,5380137,-;[c2] usb: enable_store vendor=18d1,product=4ee7,bcdDevice=ffff
+7,4495,5380146,-;,Class=0,SubClass=0,Protocol=0
+7,4496,5380156,-;[c2] usb: enable_store next cmd : usb_add_config
+14,4497,5380209,-;[c2] init: starting service 'adbd'...
+14,4498,5380963,-;[c2] init: processing action (ro.radio.noril=yes)
+11,4499,5381003,-;[c2] init: do_stop: Service ril-daemon not found
+14,4500,5381285,-;[c3] init: Created socket '/dev/socket/adbd', mode 660, user 1000, group 1000
+6,4501,5385611,-;[c1] adb_open
+7,4502,5385643,-;[c1] usb: android_bind_enabled_functions f:adb
+6,4503,5385654,-;[c1] adb_bind_config
+14,4504,5389661,-;[c3] init: processing action (nonencrypted)
+11,4505,5389741,-;[c3] init: cannot find '/system/bin/argosd', disabling 'argos-daemon': No such file or directory
+14,4506,5389810,-;[c3] init: computing context for service 'gpsd'
+11,4507,5390005,-;[c3] init: service gpsd does not have a SELinux domain defined
+14,4508,5390027,-;[c3] init: starting service 'gpsd'...
+11,4509,5390729,-;[c3] init: cannot find '/system/bin/rpmbd', disabling 'rpmbd': No such file or directory
+11,4510,5390762,-;[c3] init: cannot find '/system/bin/vcd', disabling 'VC-daemon': No such file or directory
+11,4511,5390807,-;[c3] init: cannot find '/system/bin/IPSecService', disabling 'ipsec-daemon': No such file or directory
+11,4512,5390852,-;[c3] init: cannot find '/system/bin/ddexe', disabling 'DR-daemon': No such file or directory
+11,4513,5390889,-;[c3] init: cannot find '/system/bin/connfwexe', disabling 'BCS-daemon': No such file or directory
+11,4514,5390935,-;[c3] init: cannot find '/system/bin/macloader', disabling 'macloader': No such file or directory
+14,4515,5391088,-;[c3] init: computing context for service 'drm'
+14,4516,5391258,-;[c3] init: starting service 'drm'...
+11,4517,5391899,-;[c3] init: cannot find '/system/bin/icd', disabling 'icd': No such file or directory
+14,4518,5392026,-;[c3] init: computing context for service 'audioserver'
+14,4519,5392236,-;[c3] init: starting service 'audioserver'...
+14,4520,5393289,-;[c3] init: computing context for service 'cameraserver'
+14,4521,5393526,-;[c3] init: starting service 'cameraserver'...
+11,4522,5394131,-;[c6] init: couldn't write 2531 to /dev/cpuset/camera-daemon/tasks: No such file or directory
+14,4523,5394377,-;[c3] init: computing context for service 'installd'
+14,4524,5394617,-;[c3] init: starting service 'installd'...
+14,4525,5395526,-;[c3] init: computing context for service 'keystore'
+14,4526,5395782,-;[c3] init: starting service 'keystore'...
+14,4527,5396750,-;[c3] init: computing context for service 'mediadrm'
+14,4528,5397017,-;[c3] init: starting service 'mediadrm'...
+14,4529,5397777,-;[c3] init: computing context for service 'mediaextractor'
+14,4530,5398012,-;[c3] init: starting service 'mediaextractor'...
+14,4531,5398836,-;[c3] init: computing context for service 'mediametrics'
+14,4532,5399064,-;[c3] init: starting service 'mediametrics'...
+14,4533,5399857,-;[c3] init: computing context for service 'media'
+14,4534,5400085,-;[c3] init: starting service 'media'...
+14,4535,5400886,-;[c3] init: computing context for service 'storaged'
+14,4536,5401123,-;[c3] init: starting service 'storaged'...
+14,4537,5401908,-;[c3] init: computing context for service 'wificond'
+14,4538,5402125,-;[c3] init: starting service 'wificond'...
+14,4539,5403019,-;[c3] init: computing context for service 'gnss_service'
+14,4540,5403313,-;[c3] init: starting service 'gnss_service'...
+14,4541,5404102,-;[c3] init: computing context for service 'mediacodec'
+14,4542,5404355,-;[c3] init: starting service 'mediacodec'...
+11,4543,5405234,-;[c3] init: cannot find '/system/bin/fingerprintd', disabling 'fingerprintd': No such file or directory
+11,4544,5405299,-;[c3] init: cannot find '/system/bin/at_distributor', disabling 'at_distributor': No such file or directory
+14,4545,5405495,-;[c3] init: computing context for service 'gatekeeperd'
+14,4546,5405737,-;[c3] init: starting service 'gatekeeperd'...
+11,4547,5408168,-;[c4] init: cannot find '/system/xbin/perfprofd', disabling 'perfprofd': No such file or directory
+14,4548,5408369,-;[c4] init: computing context for service 'tombstoned'
+14,4549,5408622,-;[c4] init: starting service 'tombstoned'...
+14,4550,5409870,-;[c1] init: Created socket '/dev/socket/tombstoned_crash', mode 666, user 1000, group 1000
+14,4551,5410311,-;[c1] init: Created socket '/dev/socket/tombstoned_intercept', mode 666, user 1000, group 1000
+14,4552,5498186,-;[c7] init: Opened file '/d/mmc0/mmc0:0001/ext_csd', flags 0
+6,4553,5627239,-;[c6] decon:decon_blank ++ blank_mode : 0
+6,4554,5627250,-;[c6] decon:decon-int UNBLANK mode: 0type (0: DSI)
+6,4555,5627262,-;[c6] decon:decon in init state
+3,4556,5627271,-;[c6] decon:failed to enable decon
+6,4557,5627278,-;[c6] decon:decon_blank -- blank_mode : 0, -16
+14,4558,5629187,-;[c6] init: computing context for service 'bootanim'
+14,4559,5629450,-;[c6] init: starting service 'bootanim'...
+36,4560,5701359,-;[c0] type=1300 audit(1513604269.629:37): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffecf550 a2=ffecc3e8 a3=100 items=0 ppid=2420 pid=2442 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ip6tables" exe="/system/bin/ip6tables" subj=u:r:netd:s0 key=(null)
+38,4561,5701385,-;[c0] type=1400 audit(1513604270.599:102): avc: denied { signal } for pid=2553 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,4562,5701593,-;[c0] type=1400 audit(1513604270.599:102): avc: denied { signal } for pid=2553 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,4563,5701769,-;[c0] type=1300 audit(1513604270.599:102): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=9e0 a1=9e0 a2=b a3=0 items=0 ppid=1 pid=2553 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,4564,5701896,-;[c0] type=1300 audit(1513604270.599:102): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=9e0 a1=9e0 a2=b a3=0 items=0 ppid=1 pid=2553 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,4565,5701914,-;[c0] type=1327 audit(1513604270.599:102): proctitle=63726173685F64756D70333200323532380032353437
+36,4566,5702146,-;[c0] type=1327 audit(1513604270.599:102): proctitle=63726173685F64756D70333200323532380032353437
+36,4567,5702162,-;[c0] type=1320 audit(1513604270.599:102): 
+36,4568,5703050,-;[c0] type=1320 audit(1513604270.599:102): 
+36,4569,5703072,-;[c0] type=1701 audit(1513604270.609:103): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=2528 comm="gpsd" exe="/system/bin/gpsd" sig=11
+14,4570,5703586,-;[c7] init: Untracked pid 2553 exited with status 0
+14,4571,5704736,-;[c7] init: Service 'gpsd' (pid 2528) killed by signal 11
+14,4572,5704769,-;[c7] init: Sending signal 9 to service 'gpsd' (pid 2528) process group...
+11,4573,5704943,-;[c7] init: kill(2528, 9) failed: No such process
+36,4574,5752001,-;[c0] type=1701 audit(1513604270.609:103): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=2528 comm="gpsd" exe="/system/bin/gpsd" sig=11
+38,4575,5752026,-;[c0] type=1400 audit(1513604270.649:104): avc: denied { ioctl } for pid=2477 comm="mali-hist-dump" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=821b scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,4576,5752695,-;[c0] type=1400 audit(1513604270.649:104): avc: denied { ioctl } for pid=2477 comm="mali-hist-dump" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=821b scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,4577,5752720,-;[c0] type=1300 audit(1513604270.649:104): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c018821b a2=ed725870 a3=ed725870 items=0 ppid=1 pid=2477 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-hist-dump" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4578,5752856,-;[c0] type=1300 audit(1513604270.649:104): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c018821b a2=ed725870 a3=ed725870 items=0 ppid=1 pid=2477 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-hist-dump" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4579,5752875,-;[c0] type=1327 audit(1513604270.649:104): proctitle="/system/bin/surfaceflinger"
+36,4580,5753042,-;[c0] type=1327 audit(1513604270.649:104): proctitle="/system/bin/surfaceflinger"
+36,4581,5753059,-;[c0] type=1320 audit(1513604270.649:104): 
+7,4582,5807870,-;[c1] rt5659_clk_sel_put
+7,4583,5808154,-;[c1] rt5659_clk_sel_put
+7,4584,5808357,-;[c0] rt5659_clk_sel_put
+7,4585,5808547,-;[c0] rt5659_clk_sel_put
+6,4586,5825317,-;[c1] SELinux:  Context u:object_r:imei_efs_file:s0 is not valid (left unmapped).
+36,4587,5825462,-;[c3] type=1320 audit(1513604270.649:104): 
+38,4588,5825488,-;[c3] type=1400 audit(1513604270.729:105): avc: denied { search } for pid=2530 comm="audioserver" name="imei" dev="mmcblk0p3" ino=23 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=1
+38,4589,5826078,-;[c3] type=1400 audit(1513604270.729:105): avc: denied { search } for pid=2530 comm="audioserver" name="imei" dev="mmcblk0p3" ino=23 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=1
+38,4590,5826097,-;[c3] type=1400 audit(1513604270.729:105): avc: denied { read } for pid=2530 comm="audioserver" name="mps_code.dat" dev="mmcblk0p3" ino=24 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+38,4591,5826190,-;[c3] type=1400 audit(1513604270.729:105): avc: denied { read } for pid=2530 comm="audioserver" name="mps_code.dat" dev="mmcblk0p3" ino=24 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+38,4592,5826208,-;[c3] type=1400 audit(1513604270.729:105): avc: denied { open } for pid=2530 comm="audioserver" path="/efs/imei/mps_code.dat" dev="mmcblk0p3" ino=24 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+38,4593,5826299,-;[c3] type=1400 audit(1513604270.729:105): avc: denied { open } for pid=2530 comm="audioserver" path="/efs/imei/mps_code.dat" dev="mmcblk0p3" ino=24 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+36,4594,5826319,-;[c3] type=1300 audit(1513604270.729:105): arch=40000028 syscall=322 per=8 success=yes exit=9 a0=ffffff9c a1=efe198cd a2=20000 a3=0 items=0 ppid=1 pid=2530 auid=4294967295 uid=1041 gid=1005 euid=1041 suid=1041 fsuid=1041 egid=1005 sgid=1005 fsgid=1005 tty=(none) ses=4294967295 comm="audioserver" exe="/system/bin/audioserver" subj=u:r:audioserver:s0 key=(null)
+36,4595,5826414,-;[c3] type=1300 audit(1513604270.729:105): arch=40000028 syscall=322 per=8 success=yes exit=9 a0=ffffff9c a1=efe198cd a2=20000 a3=0 items=0 ppid=1 pid=2530 auid=4294967295 uid=1041 gid=1005 euid=1041 suid=1041 fsuid=1041 egid=1005 sgid=1005 fsgid=1005 tty=(none) ses=4294967295 comm="audioserver" exe="/system/bin/audioserver" subj=u:r:audioserver:s0 key=(null)
+36,4596,5826432,-;[c3] type=1327 audit(1513604270.729:105): proctitle="/system/bin/audioserver"
+36,4597,5826612,-;[c3] type=1327 audit(1513604270.729:105): proctitle="/system/bin/audioserver"
+36,4598,5826628,-;[c3] type=1320 audit(1513604270.729:105): 
+36,4599,5826810,-;[c3] type=1320 audit(1513604270.729:105): 
+38,4600,5826828,-;[c3] type=1400 audit(1513604270.729:106): avc: denied { getattr } for pid=2530 comm="audioserver" path="/efs/imei/mps_code.dat" dev="mmcblk0p3" ino=24 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+38,4601,5826922,-;[c3] type=1400 audit(1513604270.729:106): avc: denied { getattr } for pid=2530 comm="audioserver" path="/efs/imei/mps_code.dat" dev="mmcblk0p3" ino=24 scontext=u:r:audioserver:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+36,4602,5826943,-;[c3] type=1300 audit(1513604270.729:106): arch=40000028 syscall=197 per=8 success=yes exit=0 a0=9 a1=ff97a040 a2=ff97a0c4 a3=9e2 items=0 ppid=1 pid=2530 auid=4294967295 uid=1041 gid=1005 euid=1041 suid=1041 fsuid=1041 egid=1005 sgid=1005 fsgid=1005 tty=(none) ses=4294967295 comm="audioserver" exe="/system/bin/audioserver" subj=u:r:audioserver:s0 key=(null)
+36,4603,5827033,-;[c3] type=1300 audit(1513604270.729:106): arch=40000028 syscall=197 per=8 success=yes exit=0 a0=9 a1=ff97a040 a2=ff97a0c4 a3=9e2 items=0 ppid=1 pid=2530 auid=4294967295 uid=1041 gid=1005 euid=1041 suid=1041 fsuid=1041 egid=1005 sgid=1005 fsgid=1005 tty=(none) ses=4294967295 comm="audioserver" exe="/system/bin/audioserver" subj=u:r:audioserver:s0 key=(null)
+36,4604,5827050,-;[c3] type=1327 audit(1513604270.729:106): proctitle="/system/bin/audioserver"
+36,4605,5827239,-;[c3] type=1327 audit(1513604270.729:106): proctitle="/system/bin/audioserver"
+36,4606,5827255,-;[c3] type=1320 audit(1513604270.729:106): 
+4,4607,5892536,-;[c0] audit: audit_lost=173 audit_rate_limit=20 audit_backlog_limit=64
+3,4608,5892552,-;[c0] audit: rate limit exceeded
+36,4609,5892655,-;[c3] type=1320 audit(1513604270.729:106): 
+38,4610,5892675,-;[c3] type=1400 audit(1513604270.799:107): avc: denied { read } for pid=1154 comm="kworker/0:2" name="hall_detect" dev="sysfs" ino=22197 scontext=u:r:kernel:s0 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+38,4611,6708238,-;[c3] type=1400 audit(1513604270.799:107): avc: denied { read } for pid=1154 comm="kworker/0:2" name="hall_detect" dev="sysfs" ino=22197 scontext=u:r:kernel:s0 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+38,4612,6708263,-;[c3] type=1400 audit(1513604271.609:114): avc: denied { fowner } for pid=2615 comm="chmod" capability=3 scontext=u:r:toolbox:s0 tcontext=u:r:toolbox:s0 tclass=capability permissive=1
+38,4613,6708713,-;[c3] type=1400 audit(1513604271.609:114): avc: denied { fowner } for pid=2615 comm="chmod" capability=3 scontext=u:r:toolbox:s0 tcontext=u:r:toolbox:s0 tclass=capability permissive=1
+38,4614,6708735,-;[c3] type=1400 audit(1513604271.609:114): avc: denied { fsetid } for pid=2615 comm="chmod" capability=4 scontext=u:r:toolbox:s0 tcontext=u:r:toolbox:s0 tclass=capability permissive=1
+38,4615,6708904,-;[c3] type=1400 audit(1513604271.609:114): avc: denied { fsetid } for pid=2615 comm="chmod" capability=4 scontext=u:r:toolbox:s0 tcontext=u:r:toolbox:s0 tclass=capability permissive=1
+36,4616,6708927,-;[c3] type=1300 audit(1513604271.609:114): arch=40000028 syscall=333 per=8 success=yes exit=0 a0=ffffff9c a1=ee131081 a2=a1b0 a3=0 items=0 ppid=2429 pid=2615 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="chmod" exe="/system/bin/toybox" subj=u:r:toolbox:s0 key=(null)
+36,4617,6709072,-;[c3] type=1300 audit(1513604271.609:114): arch=40000028 syscall=333 per=8 success=yes exit=0 a0=ffffff9c a1=ee131081 a2=a1b0 a3=0 items=0 ppid=2429 pid=2615 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="chmod" exe="/system/bin/toybox" subj=u:r:toolbox:s0 key=(null)
+36,4618,6709092,-;[c3] type=1327 audit(1513604271.609:114): proctitle=63686D6F640030363630002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F504152414D
+36,4619,6709340,-;[c3] type=1327 audit(1513604271.609:114): proctitle=63686D6F640030363630002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F504152414D
+36,4620,6709358,-;[c3] type=1320 audit(1513604271.609:114): 
+36,4621,6725070,-;[c3] type=1320 audit(1513604271.609:114): 
+38,4622,6725095,-;[c3] type=1400 audit(1513604271.629:115): avc: denied { write } for pid=2616 comm="ln" name="block" dev="tmpfs" ino=13184 scontext=u:r:toolbox:s0 tcontext=u:object_r:block_device:s0 tclass=dir permissive=1
+38,4623,6725458,-;[c3] type=1400 audit(1513604271.629:115): avc: denied { write } for pid=2616 comm="ln" name="block" dev="tmpfs" ino=13184 scontext=u:r:toolbox:s0 tcontext=u:object_r:block_device:s0 tclass=dir permissive=1
+38,4624,6725479,-;[c3] type=1400 audit(1513604271.629:115): avc: denied { add_name } for pid=2616 comm="ln" name="param" scontext=u:r:toolbox:s0 tcontext=u:object_r:block_device:s0 tclass=dir permissive=1
+38,4625,6725663,-;[c3] type=1400 audit(1513604271.629:115): avc: denied { add_name } for pid=2616 comm="ln" name="param" scontext=u:r:toolbox:s0 tcontext=u:object_r:block_device:s0 tclass=dir permissive=1
+38,4626,6725681,-;[c3] type=1400 audit(1513604271.629:115): avc: denied { create } for pid=2616 comm="ln" name="param" scontext=u:r:toolbox:s0 tcontext=u:object_r:block_device:s0 tclass=lnk_file permissive=1
+38,4627,6725843,-;[c3] type=1400 audit(1513604271.629:115): avc: denied { create } for pid=2616 comm="ln" name="param" scontext=u:r:toolbox:s0 tcontext=u:object_r:block_device:s0 tclass=lnk_file permissive=1
+36,4628,6725864,-;[c3] type=1300 audit(1513604271.629:115): arch=40000028 syscall=331 per=8 success=yes exit=0 a0=ffd72b99 a1=ffffff9c a2=ffd72bcb a3=0 items=0 ppid=2429 pid=2616 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ln" exe="/system/bin/toybox" subj=u:r:toolbox:s0 key=(null)
+36,4629,6726003,-;[c3] type=1300 audit(1513604271.629:115): arch=40000028 syscall=331 per=8 success=yes exit=0 a0=ffd72b99 a1=ffffff9c a2=ffd72bcb a3=0 items=0 ppid=2429 pid=2616 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="ln" exe="/system/bin/toybox" subj=u:r:toolbox:s0 key=(null)
+36,4630,6726021,-;[c3] type=1327 audit(1513604271.629:115): proctitle=6C6E002D73002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F504152414D002F6465762F626C6F636B2F706172616D
+36,4631,6726187,-;[c3] type=1327 audit(1513604271.629:115): proctitle=6C6E002D73002F6465762F626C6F636B2F706C6174666F726D2F31333534303030302E64776D6D63302F62792D6E616D652F504152414D002F6465762F626C6F636B2F706172616D
+36,4632,6726204,-;[c3] type=1320 audit(1513604271.629:115): 
+14,4633,6726628,-;[c2] init: Service 'prepare_param' (pid 2429) exited with status 0
+14,4634,9635834,-;[c2] init: computing context for service 'mobicore'
+11,4635,9636118,-;[c2] init: service mobicore does not have a SELinux domain defined
+14,4636,9636141,-;[c2] init: starting service 'mobicore'...
+11,4637,9636782,-;[c2] init: property_set("ro.boottime.mobicore", "9634183300") failed: property already set
+11,4638,9637007,-;[c0] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+36,4639,9637042,-;[c3] type=1320 audit(1513604271.629:115): 
+38,4640,9637061,-;[c3] type=1400 audit(1513604274.539:116): avc: denied { execute_no_trans } for pid=2618 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+14,4641,9637439,-;[c2] init: Service 'mobicore' (pid 2618) exited with status 127
+14,4642,9637471,-;[c2] init: Sending signal 9 to service 'mobicore' (pid 2618) process group...
+38,4643,9637537,-;[c3] type=1400 audit(1513604274.539:116): avc: denied { execute_no_trans } for pid=2618 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+36,4644,9637559,-;[c3] type=1300 audit(1513604274.539:116): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f75bfa80 a2=107060 a3=80 items=0 ppid=1 pid=2618 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+11,4645,9637632,-;[c2] init: kill(2618, 9) failed: No such process
+36,4646,9637738,-;[c3] type=1300 audit(1513604274.539:116): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f75bfa80 a2=107060 a3=80 items=0 ppid=1 pid=2618 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,4647,9637756,-;[c3] type=1327 audit(1513604274.539:116): proctitle="/init"
+36,4648,9637915,-;[c3] type=1327 audit(1513604274.539:116): proctitle="/init"
+36,4649,9637930,-;[c3] type=1320 audit(1513604274.539:116): 
+3,4650,9962812,-;[c0] mmcblk0: card_busy_detect: command error reported, status 0x4000900
+3,4651,9963127,-;[c0] mmcblk0: card_busy_detect: command error reported, status 0x4000900
+3,4652,9965323,-;[c0] mmcblk0: card_busy_detect: command error reported, status 0x4000900
+14,4653,10390389,-;[c2] init: computing context for service 'gpsd'
+11,4654,10390584,-;[c2] init: service gpsd does not have a SELinux domain defined
+14,4655,10390608,-;[c2] init: starting service 'gpsd'...
+11,4656,10391230,-;[c2] init: property_set("ro.boottime.gpsd", "10388627531") failed: property already set
+36,4657,10478868,-;[c2] type=1320 audit(1513604274.539:116): 
+36,4658,10478892,-;[c2] type=1400 audit(1513604275.379:117): avc: granted { open } for pid=2619 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,4659,10479206,-;[c5] type=1400 audit(1513604275.379:117): avc: granted { open } for pid=2619 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,4660,10479239,-;[c5] type=1300 audit(1513604275.379:117): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=eb6f50cd a2=a0001 a3=0 items=0 ppid=1 pid=2619 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,4661,10479351,-;[c5] type=1300 audit(1513604275.379:117): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=eb6f50cd a2=a0001 a3=0 items=0 ppid=1 pid=2619 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,4662,10479369,-;[c5] type=1327 audit(1513604275.379:117): proctitle="/system/bin/gpsd"
+36,4663,10479535,-;[c5] type=1327 audit(1513604275.379:117): proctitle="/system/bin/gpsd"
+36,4664,10479554,-;[c5] type=1320 audit(1513604275.379:117): 
+36,4665,10499752,-;[c0] type=1320 audit(1513604275.379:117): 
+38,4666,10499777,-;[c0] type=1400 audit(1513604275.399:118): avc: denied { ptrace } for pid=2623 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,4667,10500346,-;[c0] type=1400 audit(1513604275.399:118): avc: denied { ptrace } for pid=2623 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,4668,10500369,-;[c0] type=1327 audit(1513604275.399:118): proctitle=63726173685F64756D70333200323631390032363231
+36,4669,10500549,-;[c0] type=1327 audit(1513604275.399:118): proctitle=63726173685F64756D70333200323631390032363231
+36,4670,10500565,-;[c0] type=1320 audit(1513604275.399:118): 
+36,4671,10500704,-;[c0] type=1320 audit(1513604275.399:118): 
+36,4672,10500719,-;[c0] type=2 
+36,4673,10500837,-;[c0] type=2 
+36,4674,10500855,-;[c0] type=1305 audit(1513604275.399:119): audit_rate_limit=5 old=20 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+4,4675,10534115,-;[c3] audit: audit_lost=196 audit_rate_limit=5 audit_backlog_limit=64
+3,4676,10534132,-;[c3] audit: rate limit exceeded
+36,4677,10534245,-;[c0] type=1305 audit(1513604275.399:119): audit_rate_limit=5 old=20 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+38,4678,10534265,-;[c0] type=1400 audit(1513604275.439:120): avc: denied { signal } for pid=2623 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+14,4679,10535560,-;[c1] init: Untracked pid 2623 exited with status 0
+14,4680,10537075,-;[c1] init: Service 'gpsd' (pid 2619) killed by signal 11
+14,4681,10537108,-;[c1] init: Sending signal 9 to service 'gpsd' (pid 2619) process group...
+11,4682,10537318,-;[c1] init: kill(2619, 9) failed: No such process
+6,4683,10842347,-;[c0] sm5703_print_reg_log:0(0)0 0(0)0 0(0)0 1(1)0 5(dc)1 6(0)1 2(1f)1 2(1f)0 8(3)1 3a(0)1 13(1)0 2(1f)0 2(1e)1 2(1e)0 2(1e)0 3(0)0 4(0)0 a(4)0 b(0)0 15(0)0 1d(3)0 7(1f)0 13(1)0 13(25)1 13(25)0 
+6,4684,10848678,-;[c0] sm5703_print_reg_dump:CT:1e IM1:dc IM2:0 MS1:25 MS2:0 ADC:1f DT1:4 DT2:0 DT3:0 RS1:3
+6,4685,11727507,-;[c1] capability: warning: `main' uses 32-bit capabilities (legacy support in use)
+38,4686,13040604,-;[c0] type=1400 audit(1513604275.439:120): avc: denied { signal } for pid=2623 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,4687,13040630,-;[c0] type=1400 audit(1513604277.939:122): avc: granted { execute } for pid=2629 comm="system_server" path="/data/dalvik-cache/arm/system@framework@services.jar@classes.dex" dev="mmcblk0p22" ino=524294 scontext=u:r:system_server:s0 tcontext=u:object_r:dalvikcache_data_file:s0 tclass=file
+36,4688,13041383,-;[c0] type=1400 audit(1513604277.939:122): avc: granted { execute } for pid=2629 comm="system_server" path="/data/dalvik-cache/arm/system@framework@services.jar@classes.dex" dev="mmcblk0p22" ino=524294 scontext=u:r:system_server:s0 tcontext=u:object_r:dalvikcache_data_file:s0 tclass=file
+36,4689,13041410,-;[c0] type=1300 audit(1513604277.939:122): arch=40000028 syscall=192 per=8 success=yes exit=3470061568 a0=ced4f000 a1=d7cadc a2=5 a3=12 items=0 ppid=2421 pid=2629 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="system_server" exe="/system/bin/app_process32" subj=u:r:system_server:s0 key=(null)
+36,4690,13041527,-;[c0] type=1300 audit(1513604277.939:122): arch=40000028 syscall=192 per=8 success=yes exit=3470061568 a0=ced4f000 a1=d7cadc a2=5 a3=12 items=0 ppid=2421 pid=2629 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="system_server" exe="/system/bin/app_process32" subj=u:r:system_server:s0 key=(null)
+36,4691,13041545,-;[c0] type=1327 audit(1513604277.939:122): proctitle="system_server"
+36,4692,13041753,-;[c0] type=1327 audit(1513604277.939:122): proctitle="system_server"
+36,4693,13041769,-;[c0] type=1320 audit(1513604277.939:122): 
+4,4694,13043682,-;[c1] audit: audit_lost=200 audit_rate_limit=5 audit_backlog_limit=64
+3,4695,13043698,-;[c1] audit: rate limit exceeded
+36,4696,13043790,-;[c0] type=1320 audit(1513604277.939:122): 
+36,4697,13043812,-;[c0] type=1400 audit(1513604277.949:123): avc: granted { execute } for pid=2629 comm="system_server" path="/data/dalvik-cache/arm/system@framework@ethernet-service.jar@classes.dex" dev="mmcblk0p22" ino=524296 scontext=u:r:system_server:s0 tcontext=u:object_r:dalvikcache_data_file:s0 tclass=file
+6,4698,13602329,-;[c3] usb_notify: reserve_state_check booting delay finished
+6,4699,13602349,-;[c3] usb_notify: reserve_state_check event=vbus(1) enable=1
+6,4700,13602361,-;[c3] usb_notify: otg_notifier_callback event=vbus(1)
+6,4701,13602426,-;[c0] usb_notify: otg_notify_state+ event=vbus(1), enable=on
+6,4702,13602443,-;[c0] usb_notifier: exynos_set_peripheral usb attached
+6,4703,13602455,-;[c0] usb_notifier: check_usb_vbus_state vbus state = 1
+6,4704,13603106,-;[c0] usb_notifier: check_usb_vbus_state: get the 13600000.usb platform_device
+6,4705,13603131,-;[c0] usb_notify: otg_notify_state- event=vbus, cable=vbus
+3,4706,13603165,-;[c0] dwc3 13600000.dwc3: Turn on gadget dwc3-gadget
+ SUBSYSTEM=platform
+ DEVICE=+platform:13600000.dwc3
+6,4707,13603187,-;[c0] exynos-dwc3 13600000.usb: dwc3_exynos_runtime_resume
+ SUBSYSTEM=platform
+ DEVICE=+platform:13600000.usb
+4,4708,13803960,-;[c0] usb: device_phytune: 0x39c0793
+4,4709,13803980,-;[c0] usb: device_phytune: 0x39c0793
+6,4710,13804000,-;[c0] dwc3 13600000.dwc3: dwc3_core_init: max speed:3, hibernation:0, nr_scratch:0
+ SUBSYSTEM=platform
+ DEVICE=+platform:13600000.dwc3
+6,4711,13804020,-;[c0] dwc3 13600000.dwc3: dwc3_gadget_vbus_session: is_active = 1, softconnect = 1
+ SUBSYSTEM=platform
+ DEVICE=+platform:13600000.dwc3
+7,4712,13804031,-;[c0] usb: dwc3_gadget_run_stop is_on:1
+6,4713,13809871,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_ocv: read = 0x3bb, ocv = 3730
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4714,13827039,-;[c0] sm5703_test_read: 0x4 = 0xbe, 0x5 = 0xff, 0x6 = 0xf3, 0x7 = 0xff, 0x8 = 0x08, 0x9 = 0x08, 0xa = 0x03, 0xb = 0x00, 0xc = 0x55, 0xd = 0x07, 0xe = 0x03, 0xf = 0x07, 0x10 = 0x12, 0x11 = 0xd8, 0x12 = 0x7a, 0x13 = 0x08, 0x60 = 0x03, 0x6b = 0x20, 0x66 = 0x00, 
+6,4715,13829114,-;[c0] sm5703-fuelgauge 8-0071: fg_vbatocv_check: iocv_error_count (0)
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4716,13829141,-;[c0] sm5703-fuelgauge 8-0071: fg_vbatocv_check: mode change to mix RS auto mode
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4717,13832114,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_temperature: read = 0x2190, temperature = 335
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4718,13832972,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_ocv: read = 0x3bb, ocv = 3730
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4719,13833004,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_soc: fg_get_soc : temp_std = 25, temperature = 335, temp_offset = 10, temp_offset_cal = 0x1, curr_cal = 0x7b85, bat_temp = 261
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4720,13834428,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_soc: read = 0x1348, soc = 192
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4721,13835237,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x30 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4722,13836049,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x31 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4723,13836855,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x32 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4724,13837648,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x33 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4725,13838443,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x34 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4726,13839231,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x35 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4727,13840030,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x36 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4728,13840825,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x37 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4729,13841644,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x40 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4730,13842825,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x41 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4731,13843641,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x42 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4732,13844448,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x43 = 0x1f56 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,4733,13847588,-;[c0] 0xAC=0x2008, 0xAD=0x2133, 0xAE=0x220c, 0xAF=0x2400 
+6,4734,13850664,-;[c0] 0xBC=0x2008, 0xBD=0x2133, 0xBE=0x220c, 0xBF=0x2400 
+6,4735,13853820,-;[c0] 0xCC=0x2964, 0xCD=0x31dc, 0xCE=0x371e, 0xCF=0x3749 
+6,4736,13856912,-;[c0] 0x85=0x8412, 0x86=0x0162, 0x87=0x154a, 0x28=0x0290 
+6,4737,13856930,-;[c0] sec_bat_get_battery_info : sw_self_discharging (0)
+6,4738,13856950,-;[c0] sec-battery battery: sec_bat_get_battery_info:Vnow(3683mV),Inow(-527mA),Imax(450mA),SOC(19%),Tbat(261),Tchg(0),Twpc(0),sw_self_dis(0)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,4739,13857608,-;[c0] sm5703_get_charging_health : charger->is_charging = 1, charger->cable_type = 4, charger->aicl_state = 0
+6,4740,13858250,-;[c0] sm5703_get_charging_health: SM5703_CNTL, nCHG : 0x55, 0
+6,4741,13858263,-;[c0] sm5703_get_charging_health : vbus_status = 32
+6,4742,13858274,-;[c0] sm5703_get_charging_health : Health : 1
+6,4743,13858292,-;[c0] sec-battery battery: sec_bat_monitor_work: Status(Charging), mode(Normal), Health(Good), Cable(4), level(100%)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,4744,13858337,-;[c0] sec_chg_get_property: slow-charging mode
+6,4745,13858356,-;[c0] sec_bat_get_property cable type = 4 sleep_mode = 0
+12,4746,13859657,-;[c0] healthd: battery l=19 v=3683 t=26.1 h=2 st=2 ca=0 cv=0 c=0 chg=u
+7,4747,13947770,-;[c0] usb: dwc3_gadget_interrupt RESET 
+7,4748,14002669,-;[c0] usb: dwc3_gadget_conndone_interrupt speed:HS
+7,4749,14067736,-;[c0] usb: GET_DES
+7,4750,14067793,-;[c0] usb: android_work config=          (null),connected=1,sw_connected=0
+7,4751,14067982,-;[c0] usb: android_work sent uevent USB_STATE=CONNECTED
+7,4752,14071363,-;[c0] usb: dwc3_gadget_interrupt RESET 
+7,4753,14071384,-;[c0] usb: android_disconnect con(0), sw(1)
+7,4754,14071395,-;[c0] usb: android_disconnect schedule_work con(0) sw(1)
+7,4755,14071428,-;[c0] usb: android_work config=          (null),connected=0,sw_connected=1
+7,4756,14071559,-;[c0] usb: android_work sent uevent USB_STATE=DISCONNECTED
+7,4757,14122768,-;[c0] usb: dwc3_gadget_conndone_interrupt speed:HS
+7,4758,14207723,-;[c0] usb: GET_DES
+7,4759,14207778,-;[c0] usb: android_work config=          (null),connected=1,sw_connected=0
+7,4760,14207872,-;[c0] usb: set_config_number single config num=0
+7,4761,14207885,-;[c0] usb: config_buf f->adb
+7,4762,14207898,-;[c0] usb: set_interface_count next_interface_id=1
+7,4763,14208023,-;[c0] usb: android_work sent uevent USB_STATE=CONNECTED
+7,4764,14208040,-;[c0] usb: set_config_number single config num=0
+7,4765,14208047,-;[c0] usb: config_buf f->adb
+7,4766,14208055,-;[c0] usb: set_interface_count next_interface_id=1
+6,4767,14208970,-;[c0] android_usb gadget: high-speed config #1: android
+7,4768,14208985,-;[c0] usb: set_config e adb[0]
+7,4769,14209018,-;[c0] usb: SET_CON
+7,4770,14209029,-;[c0] usb: set_config_number single config num=0
+7,4771,14209072,-;[c0] usb: android_work config=ffffffc000dee970,connected=1,sw_connected=1
+7,4772,14209405,-;[c0] usb: android_work sent uevent USB_STATE=CONFIGURED
+3,4773,14453235,-;[c0] mmcblk0: card_busy_detect: command error reported, status 0x4000900
+14,4774,14636517,-;[c4] init: computing context for service 'mobicore'
+11,4775,14636785,-;[c4] init: service mobicore does not have a SELinux domain defined
+14,4776,14636808,-;[c4] init: starting service 'mobicore'...
+11,4777,14637414,-;[c4] init: property_set("ro.boottime.mobicore", "14634853566") failed: property already set
+11,4778,14637648,-;[c1] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+14,4779,14638161,-;[c4] init: Service 'mobicore' (pid 2667) exited with status 127
+14,4780,14638191,-;[c4] init: Sending signal 9 to service 'mobicore' (pid 2667) process group...
+11,4781,14638356,-;[c4] init: kill(2667, 9) failed: No such process
+14,4782,15390965,-;[c4] init: computing context for service 'gpsd'
+11,4783,15391152,-;[c4] init: service gpsd does not have a SELinux domain defined
+14,4784,15391174,-;[c4] init: starting service 'gpsd'...
+11,4785,15391813,-;[c4] init: property_set("ro.boottime.gpsd", "15389218335") failed: property already set
+36,4786,15479794,-;[c0] type=1400 audit(1513604277.949:123): avc: granted { execute } for pid=2629 comm="system_server" path="/data/dalvik-cache/arm/system@framework@ethernet-service.jar@classes.dex" dev="mmcblk0p22" ino=524296 scontext=u:r:system_server:s0 tcontext=u:object_r:dalvikcache_data_file:s0 tclass=file
+36,4787,15479821,-;[c0] type=1400 audit(1513604280.379:128): avc: granted { open } for pid=2669 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,4788,15480118,-;[c6] type=1400 audit(1513604280.379:128): avc: granted { open } for pid=2669 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,4789,15480145,-;[c6] type=1300 audit(1513604280.379:128): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=f3e9c0cd a2=a0001 a3=0 items=0 ppid=1 pid=2669 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,4790,15480237,-;[c6] type=1300 audit(1513604280.379:128): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=f3e9c0cd a2=a0001 a3=0 items=0 ppid=1 pid=2669 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,4791,15480255,-;[c6] type=1327 audit(1513604280.379:128): proctitle="/system/bin/gpsd"
+36,4792,15480445,-;[c6] type=1327 audit(1513604280.379:128): proctitle="/system/bin/gpsd"
+36,4793,15480460,-;[c6] type=1320 audit(1513604280.379:128): 
+36,4794,15537728,-;[c0] type=1320 audit(1513604280.379:128): 
+36,4795,15537756,-;[c0] type=1701 audit(1513604280.439:129): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=2669 comm="gpsd" exe="/system/bin/gpsd" sig=11
+14,4796,15537769,-;[c7] init: Untracked pid 2673 exited with status 0
+14,4797,15539188,-;[c7] init: Service 'gpsd' (pid 2669) killed by signal 11
+14,4798,15539220,-;[c7] init: Sending signal 9 to service 'gpsd' (pid 2669) process group...
+11,4799,15539394,-;[c7] init: kill(2669, 9) failed: No such process
+4,4800,15919157,-;[c7] audit: audit_lost=214 audit_rate_limit=5 audit_backlog_limit=64
+3,4801,15919172,-;[c7] audit: rate limit exceeded
+36,4802,17635878,-;[c3] type=1701 audit(1513604280.439:129): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=2669 comm="gpsd" exe="/system/bin/gpsd" sig=11
+36,4803,17635906,-;[c3] type=1300 audit(1513604282.539:131): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c0208203 a2=ed8226c8 a3=ed8226c8 items=0 ppid=1 pid=2476 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4804,17636734,-;[c0] type=1300 audit(1513604282.539:131): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c0208203 a2=ed8226c8 a3=ed8226c8 items=0 ppid=1 pid=2476 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4805,17636758,-;[c0] type=1327 audit(1513604282.539:131): proctitle="/system/bin/surfaceflinger"
+36,4806,17636929,-;[c0] type=1327 audit(1513604282.539:131): proctitle="/system/bin/surfaceflinger"
+36,4807,17636945,-;[c0] type=1320 audit(1513604282.539:131): 
+36,4808,17637086,-;[c0] type=1320 audit(1513604282.539:131): 
+36,4809,17637101,-;[c0] type=2 
+36,4810,17637218,-;[c0] type=2 
+36,4811,17637234,-;[c0] type=1305 audit(1513604282.539:132): audit_rate_limit=20 old=5 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+36,4812,19600430,-;[c1] type=1305 audit(1513604282.539:132): audit_rate_limit=20 old=5 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+38,4813,19600462,-;[c1] type=1400 audit(1513604284.499:133): avc: denied { read write } for pid=2434 comm="surfaceflinger" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,4814,19600676,-;[c1] type=1400 audit(1513604284.499:133): avc: denied { read write } for pid=2434 comm="surfaceflinger" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,4815,19600697,-;[c1] type=1300 audit(1513604284.499:133): arch=40000028 syscall=192 per=8 success=yes exit=4048572416 a0=0 a1=8000 a2=3 a3=1 items=0 ppid=1 pid=2434 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="surfaceflinger" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4816,19600811,-;[c1] type=1300 audit(1513604284.499:133): arch=40000028 syscall=192 per=8 success=yes exit=4048572416 a0=0 a1=8000 a2=3 a3=1 items=0 ppid=1 pid=2434 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="surfaceflinger" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4817,19600830,-;[c1] type=1327 audit(1513604284.499:133): proctitle="/system/bin/surfaceflinger"
+36,4818,19600992,-;[c1] type=1327 audit(1513604284.499:133): proctitle="/system/bin/surfaceflinger"
+36,4819,19601008,-;[c1] type=1320 audit(1513604284.499:133): 
+14,4820,19637209,-;[c7] init: computing context for service 'mobicore'
+11,4821,19637401,-;[c7] init: service mobicore does not have a SELinux domain defined
+14,4822,19637424,-;[c7] init: starting service 'mobicore'...
+11,4823,19638072,-;[c7] init: property_set("ro.boottime.mobicore", "19635472524") failed: property already set
+11,4824,19638399,-;[c1] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+14,4825,19638930,-;[c7] init: Service 'mobicore' (pid 2693) exited with status 127
+14,4826,19638960,-;[c7] init: Sending signal 9 to service 'mobicore' (pid 2693) process group...
+11,4827,19639088,-;[c7] init: kill(2693, 9) failed: No such process
+12,4828,19660590,-;[c2] healthd: battery l=19 v=3683 t=26.1 h=2 st=2 ca=0 cv=0 c=0 chg=u
+14,4829,20391555,-;[c7] init: computing context for service 'gpsd'
+11,4830,20391779,-;[c7] init: service gpsd does not have a SELinux domain defined
+14,4831,20391802,-;[c7] init: starting service 'gpsd'...
+11,4832,20392537,-;[c7] init: property_set("ro.boottime.gpsd", "20389851639") failed: property already set
+36,4833,20478678,-;[c1] type=1320 audit(1513604284.499:133): 
+36,4834,20478702,-;[c1] type=1400 audit(1513604285.379:134): avc: granted { open } for pid=2701 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,4835,20478933,-;[c1] type=1400 audit(1513604285.379:134): avc: granted { open } for pid=2701 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,4836,20478956,-;[c1] type=1300 audit(1513604285.379:134): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=ee12d0cd a2=a0001 a3=0 items=0 ppid=1 pid=2701 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,4837,20479062,-;[c1] type=1300 audit(1513604285.379:134): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=ee12d0cd a2=a0001 a3=0 items=0 ppid=1 pid=2701 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,4838,20479080,-;[c1] type=1327 audit(1513604285.379:134): proctitle="/system/bin/gpsd"
+36,4839,20479261,-;[c1] type=1327 audit(1513604285.379:134): proctitle="/system/bin/gpsd"
+36,4840,20479278,-;[c1] type=1320 audit(1513604285.379:134): 
+36,4841,20499539,-;[c1] type=1320 audit(1513604285.379:134): 
+38,4842,20499562,-;[c1] type=1400 audit(1513604285.399:135): avc: denied { ptrace } for pid=2705 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,4843,20499895,-;[c1] type=1400 audit(1513604285.399:135): avc: denied { ptrace } for pid=2705 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,4844,20499917,-;[c1] type=1300 audit(1513604285.399:135): arch=40000028 syscall=26 per=8 success=yes exit=0 a0=4206 a1=a8d a2=0 a3=0 items=0 ppid=2704 pid=2705 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,4845,20500022,-;[c1] type=1300 audit(1513604285.399:135): arch=40000028 syscall=26 per=8 success=yes exit=0 a0=4206 a1=a8d a2=0 a3=0 items=0 ppid=2704 pid=2705 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,4846,20500042,-;[c1] type=1327 audit(1513604285.399:135): proctitle=63726173685F64756D70333200323730310032373033
+36,4847,20500207,-;[c1] type=1327 audit(1513604285.399:135): proctitle=63726173685F64756D70333200323730310032373033
+36,4848,20500225,-;[c1] type=1320 audit(1513604285.399:135): 
+36,4849,20534544,-;[c1] type=1320 audit(1513604285.399:135): 
+38,4850,20534566,-;[c1] type=1400 audit(1513604285.439:136): avc: denied { signal } for pid=2705 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,4851,20534741,-;[c1] type=1400 audit(1513604285.439:136): avc: denied { signal } for pid=2705 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,4852,20534763,-;[c1] type=1300 audit(1513604285.439:136): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=a8d a1=a8d a2=b a3=0 items=0 ppid=1 pid=2705 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,4853,20534866,-;[c1] type=1300 audit(1513604285.439:136): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=a8d a1=a8d a2=b a3=0 items=0 ppid=1 pid=2705 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,4854,20534884,-;[c1] type=1327 audit(1513604285.439:136): proctitle=63726173685F64756D70333200323730310032373033
+36,4855,20535065,-;[c1] type=1327 audit(1513604285.439:136): proctitle=63726173685F64756D70333200323730310032373033
+36,4856,20535082,-;[c1] type=1320 audit(1513604285.439:136): 
+36,4857,20535652,-;[c3] type=1320 audit(1513604285.439:136): 
+36,4858,20535670,-;[c3] type=1701 audit(1513604285.439:137): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=2701 comm="gpsd" exe="/system/bin/gpsd" sig=11
+14,4859,20535838,-;[c4] init: Untracked pid 2705 exited with status 0
+14,4860,20537146,-;[c5] init: Service 'gpsd' (pid 2701) killed by signal 11
+14,4861,20537178,-;[c5] init: Sending signal 9 to service 'gpsd' (pid 2701) process group...
+11,4862,20537349,-;[c5] init: kill(2701, 9) failed: No such process
+6,4863,20720064,-;[c0] fts_touch 7-0049: fts_start_device 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:7-0049
+3,4864,20720085,-;[c0] fts_touch 7-0049: fts_start_device already power on
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:7-0049
+3,4865,20720099,-;[c0] fts_touch 7-0049: FTS PAT(0)
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:7-0049
+6,4866,20720111,-;[c0] fts_touch 7-0049: fts_input_open: Set W-Charger Status CMD[C2]
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:7-0049
+14,4867,20791410,-;[c5] init: processing action (sys.sysctl.extra_free_kbytes=*)
+6,4868,21282435,-;[c2] PWR key is released
+6,4869,21282462,-;[c2] VolumeDown key is released
+6,4870,21282475,-;[c2] VolumeUp key is released
+6,4871,21282488,-;[c2] HOME key is released
+4,4872,21782374,-;[c2] [keys] flip_cover_work flip_status : 1 (open)
+7,4873,22314251,-;[c1] usb: state_show buf=CONFIGURED
+4,4874,22316300,-;[c1] usb: acc_open
+6,4875,22316330,-;[c1] acc_release
+6,4876,22737636,-;[c2] fts_touch 7-0049: [P] tID:0 tc:1 tm:0
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:7-0049
+36,4877,23152958,-;[c2] type=1701 audit(1513604285.439:137): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=2701 comm="gpsd" exe="/system/bin/gpsd" sig=11
+36,4878,23152988,-;[c2] type=1325 audit(1513604288.059:138): table=filter family=2 entries=71
+36,4879,23153531,-;[c2] type=1325 audit(1513604288.059:138): table=filter family=2 entries=71
+36,4880,23153561,-;[c2] type=1320 audit(1513604288.059:138): 
+36,4881,23153905,-;[c2] type=1320 audit(1513604288.059:138): 
+36,4882,23153931,-;[c2] type=1325 audit(1513604288.059:139): table=raw family=2 entries=13
+36,4883,23154103,-;[c2] type=1325 audit(1513604288.059:139): table=raw family=2 entries=13
+36,4884,23154122,-;[c2] type=1320 audit(1513604288.059:139): 
+36,4885,23159202,-;[c2] type=1320 audit(1513604288.059:139): 
+36,4886,23159226,-;[c2] type=1325 audit(1513604288.059:140): table=mangle family=2 entries=20
+36,4887,23159400,-;[c2] type=1325 audit(1513604288.059:140): table=mangle family=2 entries=20
+36,4888,23159418,-;[c2] type=1320 audit(1513604288.059:140): 
+36,4889,23159570,-;[c2] type=1320 audit(1513604288.059:140): 
+36,4890,23159587,-;[c2] type=1325 audit(1513604288.059:141): table=filter family=10 entries=82
+36,4891,23159736,-;[c2] type=1325 audit(1513604288.059:141): table=filter family=10 entries=82
+36,4892,23159754,-;[c2] type=1320 audit(1513604288.059:141): 
+36,4893,23159913,-;[c2] type=1320 audit(1513604288.059:141): 
+36,4894,23159929,-;[c2] type=1325 audit(1513604288.059:142): table=raw family=10 entries=13
+36,4895,23160084,-;[c2] type=1325 audit(1513604288.059:142): table=raw family=10 entries=13
+36,4896,23160101,-;[c2] type=1320 audit(1513604288.059:142): 
+36,4897,23160251,-;[c2] type=1320 audit(1513604288.059:142): 
+36,4898,23160268,-;[c2] type=1325 audit(1513604288.059:143): table=mangle family=10 entries=19
+36,4899,23160420,-;[c2] type=1325 audit(1513604288.059:143): table=mangle family=10 entries=19
+36,4900,23160436,-;[c2] type=1320 audit(1513604288.059:143): 
+36,4901,23160592,-;[c2] type=1320 audit(1513604288.059:143): 
+36,4902,23160609,-;[c2] type=1325 audit(1513604288.059:144): table=filter family=2 entries=64
+36,4903,23160755,-;[c2] type=1325 audit(1513604288.059:144): table=filter family=2 entries=64
+36,4904,23160772,-;[c2] type=1320 audit(1513604288.059:144): 
+36,4905,23160924,-;[c2] type=1320 audit(1513604288.059:144): 
+36,4906,23160941,-;[c2] type=1325 audit(1513604288.059:145): table=raw family=2 entries=12
+36,4907,23161083,-;[c2] type=1325 audit(1513604288.059:145): table=raw family=2 entries=12
+36,4908,23161099,-;[c2] type=1320 audit(1513604288.059:145): 
+36,4909,23161242,-;[c2] type=1320 audit(1513604288.059:145): 
+36,4910,23161259,-;[c2] type=1325 audit(1513604288.059:146): table=mangle family=2 entries=19
+36,4911,23161402,-;[c2] type=1325 audit(1513604288.059:146): table=mangle family=2 entries=19
+36,4912,23161419,-;[c2] type=1320 audit(1513604288.059:146): 
+36,4913,23161583,-;[c2] type=1320 audit(1513604288.059:146): 
+36,4914,23161601,-;[c2] type=1400 audit(1513604288.059:147): avc: granted { getattr } for pid=2811 comm="sdcard" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:sdcardd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4915,23161936,-;[c2] type=1400 audit(1513604288.059:147): avc: granted { getattr } for pid=2811 comm="sdcard" path="/vendor" dev="rootfs" ino=7739 scontext=u:r:sdcardd:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file
+36,4916,23161957,-;[c2] type=1300 audit(1513604288.059:147): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffc48970 a2=ffc45808 a3=100 items=0 ppid=2354 pid=2811 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="sdcard" exe="/system/bin/sdcard" subj=u:r:sdcardd:s0 key=(null)
+36,4917,23162058,-;[c2] type=1300 audit(1513604288.059:147): arch=40000028 syscall=327 per=8 success=yes exit=0 a0=ffffff9c a1=ffc48970 a2=ffc45808 a3=100 items=0 ppid=2354 pid=2811 auid=4294967295 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=(none) ses=4294967295 comm="sdcard" exe="/system/bin/sdcard" subj=u:r:sdcardd:s0 key=(null)
+36,4918,23162077,-;[c2] type=1327 audit(1513604288.059:147): proctitle=2F73797374656D2F62696E2F736463617264002D750031303233002D670031303233002D6D002D77002F646174612F6D6564696100656D756C61746564
+36,4919,23162261,-;[c2] type=1327 audit(1513604288.059:147): proctitle=2F73797374656D2F62696E2F736463617264002D750031303233002D670031303233002D6D002D77002F646174612F6D6564696100656D756C61746564
+36,4920,23162763,-;[c2] type=1320 audit(1513604288.059:147): 
+36,4921,23163044,-;[c2] type=1320 audit(1513604288.059:147): 
+36,4922,23163064,-;[c2] type=1325 audit(1513604288.059:148): table=filter family=10 entries=75
+36,4923,23163230,-;[c2] type=1325 audit(1513604288.059:148): table=filter family=10 entries=75
+36,4924,23163248,-;[c2] type=1320 audit(1513604288.059:148): 
+36,4925,23163410,-;[c2] type=1320 audit(1513604288.059:148): 
+36,4926,23163427,-;[c2] type=1325 audit(1513604288.059:149): table=raw family=10 entries=12
+36,4927,23163581,-;[c2] type=1325 audit(1513604288.059:149): table=raw family=10 entries=12
+36,4928,23163597,-;[c2] type=1320 audit(1513604288.059:149): 
+36,4929,23163734,-;[c2] type=1320 audit(1513604288.059:149): 
+36,4930,23163750,-;[c2] type=1325 audit(1513604288.059:150): table=mangle family=10 entries=18
+36,4931,23163885,-;[c2] type=1325 audit(1513604288.059:150): table=mangle family=10 entries=18
+36,4932,23163901,-;[c2] type=1320 audit(1513604288.059:150): 
+36,4933,23164043,-;[c2] type=1320 audit(1513604288.059:150): 
+38,4934,23164061,-;[c2] type=1400 audit(1513604288.059:151): avc: denied { ioctl } for pid=2599 comm="BootAnimation" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8217 scontext=u:r:bootanim:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,4935,23164422,-;[c2] type=1400 audit(1513604288.059:151): avc: denied { ioctl } for pid=2599 comm="BootAnimation" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8217 scontext=u:r:bootanim:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,4936,23164446,-;[c2] type=1300 audit(1513604288.059:151): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=7 a1=c0108217 a2=e5182680 a3=e5182680 items=0 ppid=1 pid=2599 auid=4294967295 uid=1003 gid=1003 euid=1003 suid=1003 fsuid=1003 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="BootAnimation" exe="/system/bin/bootanimation" subj=u:r:bootanim:s0 key=(null)
+36,4937,23164534,-;[c2] type=1300 audit(1513604288.059:151): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=7 a1=c0108217 a2=e5182680 a3=e5182680 items=0 ppid=1 pid=2599 auid=4294967295 uid=1003 gid=1003 euid=1003 suid=1003 fsuid=1003 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="BootAnimation" exe="/system/bin/bootanimation" subj=u:r:bootanim:s0 key=(null)
+36,4938,23164552,-;[c2] type=1327 audit(1513604288.059:151): proctitle="/system/bin/bootanimation"
+36,4939,23164697,-;[c2] type=1327 audit(1513604288.059:151): proctitle="/system/bin/bootanimation"
+36,4940,23164713,-;[c2] type=1320 audit(1513604288.059:151): 
+36,4941,23164858,-;[c2] type=1320 audit(1513604288.059:151): 
+38,4942,23164875,-;[c2] type=1400 audit(1513604288.069:152): avc: denied { ioctl } for pid=2476 comm="mali-cmar-backe" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=821c scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,4943,23164965,-;[c2] type=1400 audit(1513604288.069:152): avc: denied { ioctl } for pid=2476 comm="mali-cmar-backe" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=821c scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,4944,23164986,-;[c2] type=1300 audit(1513604288.069:152): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c028821c a2=ed8226d0 a3=ed8226d0 items=0 ppid=1 pid=2476 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4945,23165073,-;[c2] type=1300 audit(1513604288.069:152): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c028821c a2=ed8226d0 a3=ed8226d0 items=0 ppid=1 pid=2476 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,4946,23165091,-;[c2] type=1327 audit(1513604288.069:152): proctitle="/system/bin/surfaceflinger"
+36,4947,23165232,-;[c2] type=1327 audit(1513604288.069:152): proctitle="/system/bin/surfaceflinger"
+36,4948,23165249,-;[c2] type=1320 audit(1513604288.069:152): 
+4,4949,23172042,-;[c1] audit: audit_lost=218 audit_rate_limit=20 audit_backlog_limit=64
+3,4950,23172062,-;[c1] audit: rate limit exceeded
+6,4951,23174032,-;[c3] sdcardfs: version 3.2.0
+6,4952,23174050,-;[c3] sdcardfs: dev_name -> /data/media
+6,4953,23174061,-;[c3] sdcardfs: options -> fsuid=1023,fsgid=1023,multiuser,mask=6,userid=0,gid=1015
+36,4954,23174070,-;[c4] type=1320 audit(1513604288.069:152): 
+36,4955,23174088,-;[c4] type=1325 audit(1513604288.069:153): table=filter family=2 entries=71
+3,4956,23174114,-;[c3] Unrecognized mount option "fsuid=1023" or missing value
+3,4957,23174124,-;sdcardfs: invalid options or out of memory
+36,4958,23174359,-;[c4] type=1325 audit(1513604288.069:153): table=filter family=2 entries=71
+36,4959,23174386,-;[c4] type=1320 audit(1513604288.069:153): 
+14,4960,23244156,-;[c7] init: Untracked pid 2826 exited with status 0
+14,4961,23289561,-;[c7] init: computing context for service 'wpa_supplicant'
+14,4962,23289880,-;[c7] init: starting service 'wpa_supplicant'...
+14,4963,23291237,-;[c1] init: Created socket '/dev/socket/wpa_wlan0', mode 660, user 1010, group 1010
+6,4964,23314351,-;[c7] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,4965,23316107,-;[c7] [d:0] s5p_mfc_alloc_firmware:188: Virtual address for DRM FW: ffffffc040800000
+6,4966,23316130,-;[c7] [d:0] s5p_mfc_alloc_firmware:202: Port for DRM F/W : 0x10200000
+6,4967,23323833,-;[c7] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4968,23324117,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4969,23324622,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,4970,23324880,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4971,23324970,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4972,23324990,-;[c4] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc07be9b000, version = 160106 
+6,4973,23325132,-;[c4] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,4974,23325153,-;[c4] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,4975,23325308,-;[c4] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,4976,23332976,-;[c4] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,4977,23335830,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4978,23336130,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4979,23336631,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,4980,23336849,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4981,23336897,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4982,23336917,-;[c4] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc07b2c0000, version = 160106 
+6,4983,23337063,-;[c4] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,4984,23337084,-;[c4] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,4985,23337229,-;[c4] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,4986,23344183,-;[c4] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,4987,23346996,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4988,23347303,-;[c5] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4989,23347804,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,4990,23347992,-;[c5] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4991,23348050,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4992,23348072,-;[c5] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc07b2c1000, version = 160106 
+6,4993,23348210,-;[c5] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,4994,23348232,-;[c5] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,4995,23348405,-;[c5] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,4996,23356101,-;[c4] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,4997,23358791,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,4998,23359001,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,4999,23359466,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5000,23359644,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5001,23359692,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5002,23359720,-;[c4] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc07b2c6000, version = 160106 
+6,5003,23359855,-;[c4] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5004,23359877,-;[c4] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5005,23360014,-;[c4] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5006,23368200,-;[c5] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5007,23371494,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5008,23373580,-;[c5] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5009,23375319,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5010,23377109,-;[c5] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5011,23377174,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5012,23377195,-;[c5] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc07be6c000, version = 160106 
+6,5013,23377334,-;[c5] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5014,23377356,-;[c5] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5015,23377601,-;[c5] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5016,23386366,-;[c3] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5017,23389350,-;[c3] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5018,23389595,-;[c3] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5019,23390065,-;[c3] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5020,23390249,-;[c3] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5021,23390301,-;[c3] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5022,23390322,-;[c3] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc051db3000, version = 160106 
+6,5023,23390464,-;[c3] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5024,23390485,-;[c3] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5025,23390646,-;[c3] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5026,23400886,-;[c0] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5027,23404700,-;[c0] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5028,23404948,-;[c0] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5029,23405429,-;[c0] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5030,23405644,-;[c1] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5031,23405710,-;[c1] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5032,23405731,-;[c1] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc051e52000, version = 160106 
+6,5033,23405862,-;[c1] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5034,23405891,-;[c1] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5035,23406091,-;[c1] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5036,23415318,-;[c1] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5037,23418245,-;[c1] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5038,23418486,-;[c1] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5039,23418962,-;[c1] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5040,23419163,-;[c1] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5041,23419218,-;[c1] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5042,23419239,-;[c1] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc05b965000, version = 160106 
+6,5043,23419376,-;[c1] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5044,23419407,-;[c1] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5045,23419575,-;[c1] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5046,23426415,-;[c3] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5047,23429257,-;[c3] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5048,23429498,-;[c0] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5049,23430139,-;[c0] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5050,23430335,-;[c0] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5051,23430402,-;[c0] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5052,23430422,-;[c0] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc051db4000, version = 160106 
+6,5053,23430584,-;[c0] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5054,23430619,-;[c0] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5055,23430846,-;[c0] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5056,23438250,-;[c2] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5057,23441337,-;[c2] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5058,23441552,-;[c4] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5059,23442029,-;[c4] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5060,23442213,-;[c7] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5061,23442273,-;[c7] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5062,23442341,-;[c7] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc05bf3d000, version = 160106 
+6,5063,23442500,-;[c7] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5064,23442536,-;[c7] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5065,23442692,-;[c7] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5066,23450482,-;[c5] [d:0, c:0] s5p_mfc_open:1894: NORMAL instance is opened [0:1]
+6,5067,23453482,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5068,23453701,-;[c5] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5069,23454169,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [2] Base Address : 10200000
+6,5070,23454363,-;[c5] [d:0] _s5p_mfc_init_hw:236: MFC v10.11, F/W: 17yy, 02mm, 27dd (E)
+6,5071,23454413,-;[c5] [d:0] s5p_mfc_init_memctrl:144: [1] Base Address : 10000000
+6,5072,23454434,-;[c5] [d:0, c:0] s5p_mfc_open:1999: MFC open completed [0:1] dev = ffffffc07b520818, ctx = ffffffc07be6f000, version = 160106 
+6,5073,23454570,-;[c5] [d:0, c:0] s5p_mfc_release:2085: MFC driver release is called [0:1], is_drm(0)
+6,5074,23454598,-;[c5] [d:0] s5p_mfc_deinit_hw:316: MFC h/w state: 1
+6,5075,23454850,-;[c5] [d:0] s5p_mfc_release:2297: mfc driver release finished [0:0], dev = ffffffc07b520818
+6,5076,23863980,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_ocv: read = 0x3bb, ocv = 3730
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5077,23880534,-;[c0] sm5703_test_read: 0x4 = 0xbe, 0x5 = 0xff, 0x6 = 0xf3, 0x7 = 0xff, 0x8 = 0x08, 0x9 = 0x08, 0xa = 0x03, 0xb = 0x00, 0xc = 0x55, 0xd = 0x07, 0xe = 0x03, 0xf = 0x07, 0x10 = 0x12, 0x11 = 0xd8, 0x12 = 0x7a, 0x13 = 0x08, 0x60 = 0x03, 0x6b = 0x20, 0x66 = 0x00, 
+6,5078,23882878,-;[c0] sm5703-fuelgauge 8-0071: fg_vbatocv_check: iocv_error_count (0)
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5079,23882915,-;[c0] sm5703-fuelgauge 8-0071: fg_vbatocv_check: mode change to mix RS auto mode
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5080,23885857,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_temperature: read = 0x2200, temperature = 340
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5081,23886634,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_ocv: read = 0x3bb, ocv = 3730
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5082,23886658,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_soc: fg_get_soc : temp_std = 25, temperature = 340, temp_offset = 10, temp_offset_cal = 0x1, curr_cal = 0x7b85, bat_temp = 262
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5083,23888033,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_soc: read = 0x1348, soc = 192
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5084,23888808,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x30 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5085,23889583,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x31 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5086,23890367,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x32 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5087,23891141,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x33 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5088,23891921,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x34 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5089,23892716,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x35 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5090,23893503,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x36 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5091,23894282,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x37 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5092,23895064,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x40 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5093,23895839,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x41 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5094,23896621,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x42 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5095,23897395,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x43 = 0x1f56 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5096,23900499,-;[c0] 0xAC=0x2008, 0xAD=0x2133, 0xAE=0x220c, 0xAF=0x2400 
+6,5097,23903584,-;[c0] 0xBC=0x2008, 0xBD=0x2133, 0xBE=0x220c, 0xBF=0x2400 
+6,5098,23906663,-;[c0] 0xCC=0x2964, 0xCD=0x31dc, 0xCE=0x371e, 0xCF=0x3749 
+6,5099,23909738,-;[c0] 0x85=0x831d, 0x86=0x0010, 0x87=0x1544, 0x28=0x0290 
+6,5100,23909753,-;[c0] sec_bat_get_battery_info : sw_self_discharging (0)
+6,5101,23909779,-;[c0] sec-battery battery: sec_bat_get_battery_info:Vnow(3687mV),Inow(-742mA),Imax(450mA),SOC(19%),Tbat(262),Tchg(0),Twpc(0),sw_self_dis(0)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5102,23910442,-;[c0] sm5703_get_charging_health : charger->is_charging = 1, charger->cable_type = 4, charger->aicl_state = 0
+6,5103,23911080,-;[c0] sm5703_get_charging_health: SM5703_CNTL, nCHG : 0x55, 0
+6,5104,23911092,-;[c0] sm5703_get_charging_health : vbus_status = 32
+6,5105,23911103,-;[c0] sm5703_get_charging_health : Health : 1
+6,5106,23911120,-;[c0] sec-battery battery: sec_bat_monitor_work: Status(Charging), mode(Normal), Health(Good), Cable(4), level(100%)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5107,23911163,-;[c0] sec_chg_get_property: slow-charging mode
+6,5108,23911181,-;[c0] sec_bat_get_property cable type = 4 sleep_mode = 0
+12,5109,23912481,-;[c2] healthd: battery l=19 v=3687 t=26.2 h=2 st=2 ca=0 cv=0 c=0 chg=u
+6,5110,24183010,-;[c2] fts_touch 7-0049: [R] tID:0 mc: 76 tc:0 Ver[0768C1000]
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:7-0049
+14,5111,24637821,-;[c7] init: computing context for service 'mobicore'
+11,5112,24638172,-;[c7] init: service mobicore does not have a SELinux domain defined
+14,5113,24638196,-;[c7] init: starting service 'mobicore'...
+11,5114,24638817,-;[c7] init: property_set("ro.boottime.mobicore", "24636258251") failed: property already set
+11,5115,24639159,-;[c0] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+36,5116,24639198,-;[c5] type=1320 audit(1513604288.069:153): 
+38,5117,24639219,-;[c5] type=1400 audit(1513604289.539:169): avc: denied { execute_no_trans } for pid=2979 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+14,5118,24639703,-;[c7] init: Service 'mobicore' (pid 2979) exited with status 127
+38,5119,24639714,-;[c5] type=1400 audit(1513604289.539:169): avc: denied { execute_no_trans } for pid=2979 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+36,5120,24639733,-;[c5] type=1300 audit(1513604289.539:169): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f75bfa80 a2=107060 a3=80 items=0 ppid=1 pid=2979 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+14,5121,24639769,-;[c7] init: Sending signal 9 to service 'mobicore' (pid 2979) process group...
+11,5122,24639932,-;[c7] init: kill(2979, 9) failed: No such process
+36,5123,24639942,-;[c5] type=1300 audit(1513604289.539:169): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f75bfa80 a2=107060 a3=80 items=0 ppid=1 pid=2979 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,5124,24639960,-;[c5] type=1327 audit(1513604289.539:169): proctitle="/init"
+36,5125,24640203,-;[c5] type=1327 audit(1513604289.539:169): proctitle="/init"
+36,5126,24640220,-;[c5] type=1320 audit(1513604289.539:169): 
+14,5127,25392214,-;[c7] init: computing context for service 'gpsd'
+11,5128,25392625,-;[c7] init: service gpsd does not have a SELinux domain defined
+14,5129,25392658,-;[c7] init: starting service 'gpsd'...
+11,5130,25393548,-;[c7] init: property_set("ro.boottime.gpsd", "25390776212") failed: property already set
+36,5131,25484956,-;[c7] type=1320 audit(1513604289.539:169): 
+36,5132,25484980,-;[c7] type=1400 audit(1513604290.389:170): avc: granted { open } for pid=2987 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,5133,25485303,-;[c7] type=1400 audit(1513604290.389:170): avc: granted { open } for pid=2987 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,5134,25485335,-;[c7] type=1300 audit(1513604290.389:170): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=e8b940cd a2=a0001 a3=0 items=0 ppid=1 pid=2987 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,5135,25485453,-;[c7] type=1300 audit(1513604290.389:170): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=e8b940cd a2=a0001 a3=0 items=0 ppid=1 pid=2987 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,5136,25485472,-;[c7] type=1327 audit(1513604290.389:170): proctitle="/system/bin/gpsd"
+36,5137,25485677,-;[c7] type=1327 audit(1513604290.389:170): proctitle="/system/bin/gpsd"
+36,5138,25485698,-;[c7] type=1320 audit(1513604290.389:170): 
+36,5139,25508341,-;[c6] type=1320 audit(1513604290.389:170): 
+38,5140,25508373,-;[c6] type=1400 audit(1513604290.409:171): avc: denied { ptrace } for pid=2991 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,5141,25508815,-;[c6] type=1400 audit(1513604290.409:171): avc: denied { ptrace } for pid=2991 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,5142,25508839,-;[c6] type=1300 audit(1513604290.409:171): arch=40000028 syscall=26 per=8 success=yes exit=0 a0=4206 a1=bab a2=0 a3=0 items=0 ppid=2990 pid=2991 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,5143,25508942,-;[c6] type=1300 audit(1513604290.409:171): arch=40000028 syscall=26 per=8 success=yes exit=0 a0=4206 a1=bab a2=0 a3=0 items=0 ppid=2990 pid=2991 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,5144,25508960,-;[c6] type=1327 audit(1513604290.409:171): proctitle=63726173685F64756D70333200323938370032393839
+36,5145,25509114,-;[c6] type=1327 audit(1513604290.409:171): proctitle=63726173685F64756D70333200323938370032393839
+36,5146,25509131,-;[c6] type=1320 audit(1513604290.409:171): 
+36,5147,25519629,-;[c7] type=1320 audit(1513604290.409:171): 
+38,5148,25519653,-;[c7] type=1400 audit(1513604290.419:172): avc: denied { ioctl } for pid=2610 comm="mali-cmar-backe" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8203 scontext=u:r:bootanim:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5149,25520048,-;[c7] type=1400 audit(1513604290.419:172): avc: denied { ioctl } for pid=2610 comm="mali-cmar-backe" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8203 scontext=u:r:bootanim:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5150,25520070,-;[c7] type=1300 audit(1513604290.419:172): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=7 a1=c0208203 a2=e2ba06c8 a3=e2ba06c8 items=0 ppid=1 pid=2610 auid=4294967295 uid=1003 gid=1003 euid=1003 suid=1003 fsuid=1003 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/bootanimation" subj=u:r:bootanim:s0 key=(null)
+36,5151,25520168,-;[c7] type=1300 audit(1513604290.419:172): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=7 a1=c0208203 a2=e2ba06c8 a3=e2ba06c8 items=0 ppid=1 pid=2610 auid=4294967295 uid=1003 gid=1003 euid=1003 suid=1003 fsuid=1003 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/bootanimation" subj=u:r:bootanim:s0 key=(null)
+36,5152,25520185,-;[c7] type=1327 audit(1513604290.419:172): proctitle="/system/bin/bootanimation"
+36,5153,25520335,-;[c7] type=1327 audit(1513604290.419:172): proctitle="/system/bin/bootanimation"
+36,5154,25520352,-;[c7] type=1320 audit(1513604290.419:172): 
+36,5155,25546994,-;[c7] type=1320 audit(1513604290.419:172): 
+38,5156,25547018,-;[c7] type=1400 audit(1513604290.449:173): avc: denied { signal } for pid=2991 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,5157,25547136,-;[c7] type=1400 audit(1513604290.449:173): avc: denied { signal } for pid=2991 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,5158,25547157,-;[c7] type=1300 audit(1513604290.449:173): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=bab a1=bab a2=b a3=0 items=0 ppid=1 pid=2991 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,5159,25547254,-;[c7] type=1300 audit(1513604290.449:173): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=bab a1=bab a2=b a3=0 items=0 ppid=1 pid=2991 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,5160,25547272,-;[c7] type=1327 audit(1513604290.449:173): proctitle=63726173685F64756D70333200323938370032393839
+36,5161,25547457,-;[c7] type=1327 audit(1513604290.449:173): proctitle=63726173685F64756D70333200323938370032393839
+36,5162,25547474,-;[c7] type=1320 audit(1513604290.449:173): 
+4,5163,25549175,-;[c5] audit: audit_lost=252 audit_rate_limit=20 audit_backlog_limit=64
+3,5164,25549192,-;[c5] audit: rate limit exceeded
+14,5165,25549498,-;[c7] init: Untracked pid 2991 exited with status 0
+14,5166,25550665,-;[c7] init: Service 'gpsd' (pid 2987) killed by signal 11
+14,5167,25550696,-;[c7] init: Sending signal 9 to service 'gpsd' (pid 2987) process group...
+11,5168,25550872,-;[c7] init: kill(2987, 9) failed: No such process
+36,5169,25706753,-;[c6] type=1320 audit(1513604290.449:173): 
+38,5170,25706780,-;[c6] type=1400 audit(1513604290.609:175): avc: denied { ioctl } for pid=2476 comm="mali-cmar-backe" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=821c scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5171,25707591,-;[c7] type=1400 audit(1513604290.609:175): avc: denied { ioctl } for pid=2476 comm="mali-cmar-backe" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=821c scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5172,25707620,-;[c7] type=1300 audit(1513604290.609:175): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c028821c a2=ed8226d0 a3=ed8226d0 items=0 ppid=1 pid=2476 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,5173,25707773,-;[c7] type=1300 audit(1513604290.609:175): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=9 a1=c028821c a2=ed8226d0 a3=ed8226d0 items=0 ppid=1 pid=2476 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="mali-cmar-backe" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,5174,25707796,-;[c7] type=1327 audit(1513604290.609:175): proctitle="/system/bin/surfaceflinger"
+36,5175,25708030,-;[c7] type=1327 audit(1513604290.609:175): proctitle="/system/bin/surfaceflinger"
+36,5176,25708048,-;[c7] type=1320 audit(1513604290.609:175): 
+36,5177,25739386,-;[c6] type=1320 audit(1513604290.609:175): 
+38,5178,25739420,-;[c6] type=1400 audit(1513604290.639:176): avc: denied { write } for pid=2997 comm="gnss@1.0-servic" name=".gps.interface.pipe.to_gpsd" dev="mmcblk0p22" ino=196654 scontext=u:r:hal_gnss_default:s0 tcontext=u:object_r:system_data_file:s0 tclass=fifo_file permissive=1
+38,5179,25740070,-;[c6] type=1400 audit(1513604290.639:176): avc: denied { write } for pid=2997 comm="gnss@1.0-servic" name=".gps.interface.pipe.to_gpsd" dev="mmcblk0p22" ino=196654 scontext=u:r:hal_gnss_default:s0 tcontext=u:object_r:system_data_file:s0 tclass=fifo_file permissive=1
+38,5180,25740096,-;[c6] type=1400 audit(1513604290.639:176): avc: denied { open } for pid=2997 comm="gnss@1.0-servic" path="/data/system/gps/.gps.interface.pipe.to_gpsd" dev="mmcblk0p22" ino=196654 scontext=u:r:hal_gnss_default:s0 tcontext=u:object_r:system_data_file:s0 tclass=fifo_file permissive=1
+38,5181,27112613,-;[c6] type=1400 audit(1513604290.639:176): avc: denied { open } for pid=2997 comm="gnss@1.0-servic" path="/data/system/gps/.gps.interface.pipe.to_gpsd" dev="mmcblk0p22" ino=196654 scontext=u:r:hal_gnss_default:s0 tcontext=u:object_r:system_data_file:s0 tclass=fifo_file permissive=1
+38,5182,27112643,-;[c6] type=1400 audit(1513604292.009:177): avc: denied { read write } for pid=2981 comm="RenderThread" name="mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5183,27113400,-;[c6] type=1400 audit(1513604292.009:177): avc: denied { read write } for pid=2981 comm="RenderThread" name="mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5184,27113428,-;[c6] type=1400 audit(1513604292.009:177): avc: denied { open } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5185,27113567,-;[c6] type=1400 audit(1513604292.009:177): avc: denied { open } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5186,27113590,-;[c6] type=1300 audit(1513604292.009:177): arch=40000028 syscall=322 per=8 success=yes exit=67 a0=ffffff9c a1=c9cfa5fc a2=a0802 a3=0 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5187,27113694,-;[c6] type=1300 audit(1513604292.009:177): arch=40000028 syscall=322 per=8 success=yes exit=67 a0=ffffff9c a1=c9cfa5fc a2=a0802 a3=0 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5188,27113713,-;[c6] type=1327 audit(1513604292.009:177): proctitle="com.android.systemui"
+36,5189,27113901,-;[c6] type=1327 audit(1513604292.009:177): proctitle="com.android.systemui"
+36,5190,27113926,-;[c6] type=1320 audit(1513604292.009:177): 
+36,5191,27114085,-;[c6] type=1320 audit(1513604292.009:177): 
+38,5192,27114104,-;[c6] type=1400 audit(1513604292.019:178): avc: denied { getattr } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5193,27114194,-;[c6] type=1400 audit(1513604292.019:178): avc: denied { getattr } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5194,27114214,-;[c6] type=1300 audit(1513604292.019:178): arch=40000028 syscall=197 per=8 success=yes exit=0 a0=43 a1=c9cfa590 a2=f0037328 a3=0 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5195,27114303,-;[c6] type=1300 audit(1513604292.019:178): arch=40000028 syscall=197 per=8 success=yes exit=0 a0=43 a1=c9cfa590 a2=f0037328 a3=0 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5196,27114320,-;[c6] type=1327 audit(1513604292.019:178): proctitle="com.android.systemui"
+36,5197,27114606,-;[c6] type=1327 audit(1513604292.019:178): proctitle="com.android.systemui"
+36,5198,27114625,-;[c6] type=1320 audit(1513604292.019:178): 
+36,5199,27114796,-;[c6] type=1320 audit(1513604292.019:178): 
+38,5200,27114828,-;[c6] type=1400 audit(1513604292.019:179): avc: denied { ioctl } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8000 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5201,27114923,-;[c6] type=1400 audit(1513604292.019:179): avc: denied { ioctl } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8000 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5202,27114944,-;[c6] type=1300 audit(1513604292.019:179): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=43 a1=c0108000 a2=c9cfa580 a3=6 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5203,27115033,-;[c6] type=1300 audit(1513604292.019:179): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=43 a1=c0108000 a2=c9cfa580 a3=6 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5204,27115052,-;[c6] type=1327 audit(1513604292.019:179): proctitle="com.android.systemui"
+36,5205,27115206,-;[c6] type=1327 audit(1513604292.019:179): proctitle="com.android.systemui"
+36,5206,27115223,-;[c6] type=1320 audit(1513604292.019:179): 
+14,5207,28313373,-;[c7] init: Sending signal 9 to service 'wpa_supplicant' (pid 2847) process group...
+36,5208,28366991,-;[c7] type=1320 audit(1513604292.019:179): 
+38,5209,28367022,-;[c7] type=1400 audit(1513604293.269:180): avc: denied { read write } for pid=2434 comm="surfaceflinger" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5210,28367256,-;[c7] type=1400 audit(1513604293.269:180): avc: denied { read write } for pid=2434 comm="surfaceflinger" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:surfaceflinger:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5211,28367281,-;[c7] type=1300 audit(1513604293.269:180): arch=40000028 syscall=192 per=8 success=yes exit=4046483456 a0=0 a1=12000 a2=3 a3=1 items=0 ppid=1 pid=2434 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="surfaceflinger" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,5212,28367412,-;[c7] type=1300 audit(1513604293.269:180): arch=40000028 syscall=192 per=8 success=yes exit=4046483456 a0=0 a1=12000 a2=3 a3=1 items=0 ppid=1 pid=2434 auid=4294967295 uid=1000 gid=1003 euid=1000 suid=1000 fsuid=1000 egid=1003 sgid=1003 fsgid=1003 tty=(none) ses=4294967295 comm="surfaceflinger" exe="/system/bin/surfaceflinger" subj=u:r:surfaceflinger:s0 key=(null)
+36,5213,28367432,-;[c7] type=1327 audit(1513604293.269:180): proctitle="/system/bin/surfaceflinger"
+36,5214,28367670,-;[c7] type=1327 audit(1513604293.269:180): proctitle="/system/bin/surfaceflinger"
+36,5215,28367691,-;[c7] type=1320 audit(1513604293.269:180): 
+11,5216,28522988,-;[c4] init: failed to kill 1 processes for processgroup 2847
+11,5217,28523031,-;[c4] init: killProcessGroup(0, 2847, 9) failed: Success
+14,5218,28603273,-;[c4] init: Service 'wpa_supplicant' (pid 2847) killed by signal 9
+36,5219,28840483,-;[c7] type=1320 audit(1513604293.269:180): 
+38,5220,28840509,-;[c7] type=1400 audit(1513604293.739:181): avc: denied { module_request } for pid=2427 comm="wifi@1.0-servic" kmod="net-pf-16-proto-16-family-cld80211" scontext=u:r:hal_wifi_default:s0 tcontext=u:r:kernel:s0 tclass=system permissive=1
+38,5221,28840670,-;[c7] type=1400 audit(1513604293.739:181): avc: denied { module_request } for pid=2427 comm="wifi@1.0-servic" kmod="net-pf-16-proto-16-family-cld80211" scontext=u:r:hal_wifi_default:s0 tcontext=u:r:kernel:s0 tclass=system permissive=1
+36,5222,28840692,-;[c7] type=1300 audit(1513604293.739:181): arch=40000028 syscall=296 per=8 success=yes exit=36 a0=8 a1=ff94bb30 a2=0 a3=1 items=0 ppid=1 pid=2427 auid=4294967295 uid=1010 gid=1010 euid=1010 suid=1010 fsuid=1010 egid=1010 sgid=1010 fsgid=1010 tty=(none) ses=4294967295 comm="wifi@1.0-servic" exe="/system/vendor/bin/hw/android.hardware.wifi@1.0-service" subj=u:r:hal_wifi_default:s0 key=(null)
+36,5223,28840797,-;[c7] type=1300 audit(1513604293.739:181): arch=40000028 syscall=296 per=8 success=yes exit=36 a0=8 a1=ff94bb30 a2=0 a3=1 items=0 ppid=1 pid=2427 auid=4294967295 uid=1010 gid=1010 euid=1010 suid=1010 fsuid=1010 egid=1010 sgid=1010 fsgid=1010 tty=(none) ses=4294967295 comm="wifi@1.0-servic" exe="/system/vendor/bin/hw/android.hardware.wifi@1.0-service" subj=u:r:hal_wifi_default:s0 key=(null)
+36,5224,28840815,-;[c7] type=1327 audit(1513604293.739:181): proctitle="/vendor/bin/hw/android.hardware.wifi@1.0-service"
+36,5225,28841000,-;[c7] type=1327 audit(1513604293.739:181): proctitle="/vendor/bin/hw/android.hardware.wifi@1.0-service"
+36,5226,28841018,-;[c7] type=1320 audit(1513604293.739:181): 
+14,5227,28879121,-;[c0] init: computing context for service 'wpa_supplicant'
+14,5228,28879450,-;[c0] init: starting service 'wpa_supplicant'...
+11,5229,28880116,-;[c0] init: property_set("ro.boottime.wpa_supplicant", "28877500864") failed: property already set
+14,5230,28880742,-;[c4] init: Created socket '/dev/socket/wpa_wlan0', mode 660, user 1010, group 1010
+36,5231,29419941,-;[c6] type=1320 audit(1513604293.739:181): 
+38,5232,29419971,-;[c6] type=1400 audit(1513604294.319:182): avc: denied { ioctl } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8217 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5233,29420251,-;[c6] type=1400 audit(1513604294.319:182): avc: denied { ioctl } for pid=2981 comm="RenderThread" path="/dev/mali0" dev="tmpfs" ino=9253 ioctlcmd=8217 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5234,29420281,-;[c6] type=1300 audit(1513604294.319:182): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=43 a1=c0108217 a2=c9cfa6c8 a3=c9cfa6c8 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5235,29420413,-;[c6] type=1300 audit(1513604294.319:182): arch=40000028 syscall=54 per=8 success=yes exit=0 a0=43 a1=c0108217 a2=c9cfa6c8 a3=c9cfa6c8 items=0 ppid=2421 pid=2981 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="RenderThread" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5236,29420435,-;[c6] type=1327 audit(1513604294.319:182): proctitle="com.android.systemui"
+36,5237,29420911,-;[c6] type=1327 audit(1513604294.319:182): proctitle="com.android.systemui"
+36,5238,29420933,-;[c6] type=1320 audit(1513604294.319:182): 
+36,5239,29433229,-;[c1] type=1320 audit(1513604294.319:182): 
+38,5240,29433261,-;[c1] type=1400 audit(1513604294.319:183): avc: denied { read write } for pid=3010 comm="mali-utility-wo" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5241,29433756,-;[c1] type=1400 audit(1513604294.319:183): avc: denied { read write } for pid=3010 comm="mali-utility-wo" path="/dev/mali0" dev="tmpfs" ino=9253 scontext=u:r:system_app:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5242,29433783,-;[c1] type=1300 audit(1513604294.319:183): arch=40000028 syscall=192 per=8 success=yes exit=3359559680 a0=0 a1=19000 a2=3 a3=1 items=0 ppid=2421 pid=3010 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="mali-utility-wo" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5243,29433900,-;[c1] type=1300 audit(1513604294.319:183): arch=40000028 syscall=192 per=8 success=yes exit=3359559680 a0=0 a1=19000 a2=3 a3=1 items=0 ppid=2421 pid=3010 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="mali-utility-wo" exe="/system/bin/app_process32" subj=u:r:system_app:s0 key=(null)
+36,5244,29433919,-;[c1] type=1327 audit(1513604294.319:183): proctitle="com.android.systemui"
+36,5245,29434089,-;[c1] type=1327 audit(1513604294.319:183): proctitle="com.android.systemui"
+36,5246,29434106,-;[c1] type=1320 audit(1513604294.319:183): 
+36,5247,29544663,-;[c1] type=1320 audit(1513604294.319:183): 
+38,5248,29544693,-;[c1] type=1400 audit(1513604294.449:184): avc: denied { open } for pid=3084 comm="hci_thread" path="/data/misc/conn/.wifiver.info" dev="mmcblk0p22" ino=41001 scontext=u:r:bluetooth:s0 tcontext=u:object_r:system_data_file:s0 tclass=file permissive=1
+11,5249,29544904,-;[c2] selinux: avc:  denied  { set } for property=persist.bluetooth_fw_ver pid=2748 uid=1002 gid=1002 scontext=u:r:bluetooth:s0 tcontext=u:object_r:default_prop:s0 tclass=property_service\x0a
+38,5250,29545137,-;[c1] type=1400 audit(1513604294.449:184): avc: denied { open } for pid=3084 comm="hci_thread" path="/data/misc/conn/.wifiver.info" dev="mmcblk0p22" ino=41001 scontext=u:r:bluetooth:s0 tcontext=u:object_r:system_data_file:s0 tclass=file permissive=1
+36,5251,29545165,-;[c1] type=1300 audit(1513604294.449:184): arch=40000028 syscall=322 per=8 success=yes exit=71 a0=ffffff9c a1=ca13a004 a2=20000 a3=0 items=0 ppid=2421 pid=3084 auid=4294967295 uid=1002 gid=1002 euid=1002 suid=1002 fsuid=1002 egid=1002 sgid=1002 fsgid=1002 tty=(none) ses=4294967295 comm="hci_thread" exe="/system/bin/app_process32" subj=u:r:bluetooth:s0 key=(null)
+36,5252,29545294,-;[c1] type=1300 audit(1513604294.449:184): arch=40000028 syscall=322 per=8 success=yes exit=71 a0=ffffff9c a1=ca13a004 a2=20000 a3=0 items=0 ppid=2421 pid=3084 auid=4294967295 uid=1002 gid=1002 euid=1002 suid=1002 fsuid=1002 egid=1002 sgid=1002 fsgid=1002 tty=(none) ses=4294967295 comm="hci_thread" exe="/system/bin/app_process32" subj=u:r:bluetooth:s0 key=(null)
+36,5253,29545314,-;[c1] type=1327 audit(1513604294.449:184): proctitle="com.android.bluetooth"
+36,5254,29545503,-;[c1] type=1327 audit(1513604294.449:184): proctitle="com.android.bluetooth"
+36,5255,29545520,-;[c1] type=1320 audit(1513604294.449:184): 
+36,5256,29549414,-;[c0] type=1320 audit(1513604294.449:184): 
+38,5257,29549439,-;[c0] type=1400 audit(1513604294.449:185): avc: denied { write } for pid=3084 comm="hci_thread" name="state" dev="sysfs" ino=17929 scontext=u:r:bluetooth:s0 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+38,5258,29549678,-;[c0] type=1400 audit(1513604294.449:185): avc: denied { write } for pid=3084 comm="hci_thread" name="state" dev="sysfs" ino=17929 scontext=u:r:bluetooth:s0 tcontext=u:object_r:sysfs:s0 tclass=file permissive=1
+36,5259,29549702,-;[c0] type=1300 audit(1513604294.449:185): arch=40000028 syscall=322 per=8 success=yes exit=71 a0=ffffff9c a1=e689e060 a2=20002 a3=0 items=0 ppid=2421 pid=3084 auid=4294967295 uid=1002 gid=1002 euid=1002 suid=1002 fsuid=1002 egid=1002 sgid=1002 fsgid=1002 tty=(none) ses=4294967295 comm="hci_thread" exe="/system/bin/app_process32" subj=u:r:bluetooth:s0 key=(null)
+6,5260,29549721,-;[c1] wake enabled for irq 10
+36,5261,29549799,-;[c0] type=1300 audit(1513604294.449:185): arch=40000028 syscall=322 per=8 success=yes exit=71 a0=ffffff9c a1=e689e060 a2=20002 a3=0 items=0 ppid=2421 pid=3084 auid=4294967295 uid=1002 gid=1002 euid=1002 suid=1002 fsuid=1002 egid=1002 sgid=1002 fsgid=1002 tty=(none) ses=4294967295 comm="hci_thread" exe="/system/bin/app_process32" subj=u:r:bluetooth:s0 key=(null)
+36,5262,29549817,-;[c0] type=1327 audit(1513604294.449:185): proctitle="com.android.bluetooth"
+36,5263,29549997,-;[c0] type=1327 audit(1513604294.449:185): proctitle="com.android.bluetooth"
+36,5264,29550014,-;[c0] type=1320 audit(1513604294.449:185): 
+14,5265,29638778,-;[c0] init: computing context for service 'mobicore'
+11,5266,29639086,-;[c0] init: service mobicore does not have a SELinux domain defined
+14,5267,29639115,-;[c0] init: starting service 'mobicore'...
+11,5268,29639951,-;[c0] init: property_set("ro.boottime.mobicore", "29637247401") failed: property already set
+36,5269,29640160,-;[c0] type=1320 audit(1513604294.449:185): 
+38,5270,29640181,-;[c0] type=1400 audit(1513604294.539:186): avc: denied { execute_no_trans } for pid=3088 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+11,5271,29640244,-;[c2] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+14,5272,29641301,-;[c0] init: Service 'mobicore' (pid 3088) exited with status 127
+14,5273,29641343,-;[c0] init: Sending signal 9 to service 'mobicore' (pid 3088) process group...
+11,5274,29641524,-;[c0] init: kill(3088, 9) failed: No such process
+38,5275,29642591,-;[c0] type=1400 audit(1513604294.539:186): avc: denied { execute_no_trans } for pid=3088 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+36,5276,29642624,-;[c0] type=1300 audit(1513604294.539:186): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f75bfa80 a2=107060 a3=80 items=0 ppid=1 pid=3088 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,5277,29643032,-;[c0] type=1300 audit(1513604294.539:186): arch=40000028 syscall=11 per=8 success=no exit=-2 a0=f75cdca0 a1=f75bfa80 a2=107060 a3=80 items=0 ppid=1 pid=3088 auid=4294967295 uid=1000 gid=1000 euid=1000 suid=1000 fsuid=1000 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="init" exe="/init" subj=u:r:init:s0 key=(null)
+36,5278,29643072,-;[c0] type=1327 audit(1513604294.539:186): proctitle="/init"
+36,5279,29643362,-;[c0] type=1327 audit(1513604294.539:186): proctitle="/init"
+36,5280,29643381,-;[c0] type=1320 audit(1513604294.539:186): 
+36,5281,29664333,-;[c0] type=1320 audit(1513604294.539:186): 
+38,5282,29664362,-;[c0] type=1400 audit(1513604294.569:187): avc: denied { read write } for pid=3084 comm="hci_thread" name="ttySAC0" dev="tmpfs" ino=13301 scontext=u:r:bluetooth:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5283,29664720,-;[c0] type=1400 audit(1513604294.569:187): avc: denied { read write } for pid=3084 comm="hci_thread" name="ttySAC0" dev="tmpfs" ino=13301 scontext=u:r:bluetooth:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5284,29664764,-;[c0] type=1400 audit(1513604294.569:187): avc: denied { open } for pid=3084 comm="hci_thread" path="/dev/ttySAC0" dev="tmpfs" ino=13301 scontext=u:r:bluetooth:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5285,29664905,-;[c0] type=1400 audit(1513604294.569:187): avc: denied { open } for pid=3084 comm="hci_thread" path="/dev/ttySAC0" dev="tmpfs" ino=13301 scontext=u:r:bluetooth:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5286,29664926,-;[c0] type=1300 audit(1513604294.569:187): arch=40000028 syscall=322 per=8 success=yes exit=71 a0=ffffff9c a1=ca13c2f0 a2=20102 a3=0 items=0 ppid=2421 pid=3084 auid=4294967295 uid=1002 gid=1002 euid=1002 suid=1002 fsuid=1002 egid=1002 sgid=1002 fsgid=1002 tty=(none) ses=4294967295 comm="hci_thread" exe="/system/bin/app_process32" subj=u:r:bluetooth:s0 key=(null)
+36,5287,29665041,-;[c0] type=1300 audit(1513604294.569:187): arch=40000028 syscall=322 per=8 success=yes exit=71 a0=ffffff9c a1=ca13c2f0 a2=20102 a3=0 items=0 ppid=2421 pid=3084 auid=4294967295 uid=1002 gid=1002 euid=1002 suid=1002 fsuid=1002 egid=1002 sgid=1002 fsgid=1002 tty=(none) ses=4294967295 comm="hci_thread" exe="/system/bin/app_process32" subj=u:r:bluetooth:s0 key=(null)
+36,5288,29665060,-;[c0] type=1327 audit(1513604294.569:187): proctitle="com.android.bluetooth"
+36,5289,29665277,-;[c0] type=1327 audit(1513604294.569:187): proctitle="com.android.bluetooth"
+36,5290,29665296,-;[c0] type=1320 audit(1513604294.569:187): 
+36,5291,29665471,-;[c0] type=1320 audit(1513604294.569:187): 
+38,5292,29665491,-;[c0] type=1400 audit(1513604294.569:188): avc: denied { ioctl } for pid=3084 comm="hci_thread" path="/dev/ttySAC0" dev="tmpfs" ino=13301 ioctlcmd=540b scontext=u:r:bluetooth:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+38,5293,29665768,-;[c0] type=1400 audit(1513604294.569:188): avc: denied { ioctl } for pid=3084 comm="hci_thread" path="/dev/ttySAC0" dev="tmpfs" ino=13301 ioctlcmd=540b scontext=u:r:bluetooth:s0 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1
+36,5294,29665789,-;[c0] type=1327 audit(1513604294.569:188): proctitle="com.android.bluetooth"
+3,5295,29666340,-;[c1] set_wake_locked: [BT] set_wake_locked value = 1\x0a
+36,5296,29682600,-;[c7] type=1327 audit(1513604294.569:188): proctitle="com.android.bluetooth"
+36,5297,29682629,-;[c7] type=1320 audit(1513604294.569:188): 
+36,5298,29685564,-;[c2] type=1320 audit(1513604294.569:188): 
+36,5299,29685589,-;[c2] type=1305 audit(1513604294.569:189): audit_rate_limit=5 old=20 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+36,5300,29685744,-;[c2] type=1305 audit(1513604294.569:189): audit_rate_limit=5 old=20 auid=4294967295 ses=4294967295 subj=u:r:logd:s0 res=1
+36,5301,29685760,-;[c2] type=2 
+3,5302,29700041,-;[c0] update_host_wake_locked: [BT] update_host_wake_locked host_wake is deasserted. release wakelock in 1s\x0a
+3,5303,29719793,-;[c0] update_host_wake_locked: [BT] update_host_wake_locked host_wake is deasserted. release wakelock in 1s\x0a
+4,5304,29932561,-;[c0] audit: audit_lost=253 audit_rate_limit=5 audit_backlog_limit=64
+3,5305,29932577,-;[c0] audit: rate limit exceeded
+3,5306,30097917,-;[c0] update_host_wake_locked: [BT] update_host_wake_locked host_wake is deasserted. release wakelock in 1s\x0a
+3,5307,30206219,-;[c0] update_host_wake_locked: [BT] update_host_wake_locked host_wake is deasserted. release wakelock in 1s\x0a
+14,5308,30209693,-;[c4] init: processing action (wc_transport.start_hci=true)
+14,5309,30209860,-;[c4] init: computing context for service 'start_hci_filter'
+11,5310,30210017,-;[c4] init: service start_hci_filter does not have a SELinux domain defined
+14,5311,30210041,-;[c4] init: starting service 'start_hci_filter'...
+14,5312,30393119,-;[c4] init: computing context for service 'gpsd'
+11,5313,30393388,-;[c4] init: service gpsd does not have a SELinux domain defined
+14,5314,30393413,-;[c4] init: starting service 'gpsd'...
+11,5315,30394281,-;[c4] init: property_set("ro.boottime.gpsd", "30391531632") failed: property already set
+36,5316,30557860,-;[c1] type=2 
+38,5317,30557890,-;[c1] type=1400 audit(1513604295.459:199): avc: denied { signal } for pid=3115 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+38,5318,30558091,-;[c1] type=1400 audit(1513604295.459:199): avc: denied { signal } for pid=3115 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+36,5319,30558113,-;[c1] type=1300 audit(1513604295.459:199): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=c24 a1=c24 a2=b a3=0 items=0 ppid=1 pid=3115 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,5320,30558218,-;[c1] type=1300 audit(1513604295.459:199): arch=40000028 syscall=268 per=8 success=yes exit=0 a0=c24 a1=c24 a2=b a3=0 items=0 ppid=1 pid=3115 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="crash_dump32" exe="/system/bin/crash_dump32" subj=u:r:crash_dump:s0 key=(null)
+36,5321,30558237,-;[c1] type=1327 audit(1513604295.459:199): proctitle=63726173685F64756D70333200333130380033313133
+36,5322,30558429,-;[c1] type=1327 audit(1513604295.459:199): proctitle=63726173685F64756D70333200333130380033313133
+36,5323,30558446,-;[c1] type=1320 audit(1513604295.459:199): 
+36,5324,30560437,-;[c3] type=1320 audit(1513604295.459:199): 
+36,5325,30560463,-;[c3] type=1701 audit(1513604295.459:200): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=3108 comm="gpsd" exe="/system/bin/gpsd" sig=11
+14,5326,30560793,-;[c5] init: Untracked pid 3115 exited with status 0
+14,5327,30562525,-;[c5] init: Service 'gpsd' (pid 3108) killed by signal 11
+14,5328,30562565,-;[c5] init: Sending signal 9 to service 'gpsd' (pid 3108) process group...
+11,5329,30562762,-;[c5] init: kill(3108, 9) failed: No such process
+3,5330,31410293,-;[c3] set_wake_locked: [BT] set_wake_locked value = 0\x0a
+3,5331,31410320,-;[c0] update_host_wake_locked: [BT] update_host_wake_locked host_wake is deasserted. release wakelock in 1s\x0a
+14,5332,33895063,-;[c3] init: Sending signal 9 to service 'wpa_supplicant' (pid 3020) process group...
+6,5333,33916631,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_ocv: read = 0x3bb, ocv = 3730
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5334,33933619,-;[c0] sm5703_test_read: 0x4 = 0xbe, 0x5 = 0xff, 0x6 = 0xf3, 0x7 = 0xff, 0x8 = 0x08, 0x9 = 0x08, 0xa = 0x03, 0xb = 0x00, 0xc = 0x55, 0xd = 0x07, 0xe = 0x03, 0xf = 0x07, 0x10 = 0x12, 0x11 = 0xd8, 0x12 = 0x7a, 0x13 = 0x08, 0x60 = 0x03, 0x6b = 0x20, 0x66 = 0x00, 
+6,5335,33935497,-;[c0] sm5703-fuelgauge 8-0071: fg_vbatocv_check: iocv_error_count (0)
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5336,33935518,-;[c0] sm5703-fuelgauge 8-0071: fg_vbatocv_check: mode change to mix RS auto mode
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5337,33938453,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_temperature: read = 0x2260, temperature = 343
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5338,33939241,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_ocv: read = 0x3bb, ocv = 3730
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5339,33939301,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_soc: fg_get_soc : temp_std = 25, temperature = 343, temp_offset = 10, temp_offset_cal = 0x1, curr_cal = 0x7b85, bat_temp = 263
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5340,33940675,-;[c0] sm5703-fuelgauge 8-0071: sm5703_get_soc: read = 0x133c, soc = 192
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5341,33941453,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x30 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5342,33942255,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x31 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5343,33943252,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x32 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5344,33944086,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x33 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5345,33944898,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x34 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5346,33945693,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x35 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5347,33946483,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x36 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5348,33947338,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x37 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5349,33948116,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x40 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5350,33948893,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x41 = 0x1f43 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5351,33949670,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x42 = 0x1f44 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5352,33950445,-;[c0] sm5703-fuelgauge 8-0071: sm5703_fg_test_read: sm5703 FG 0x43 = 0x1f56 
+ SUBSYSTEM=i2c
+ DEVICE=+i2c:8-0071
+6,5353,33953566,-;[c0] 0xAC=0x2008, 0xAD=0x2133, 0xAE=0x220c, 0xAF=0x2400 
+6,5354,33956699,-;[c0] 0xBC=0x2008, 0xBD=0x2133, 0xBE=0x220c, 0xBF=0x2400 
+6,5355,33959848,-;[c0] 0xCC=0x2964, 0xCD=0x31dc, 0xCE=0x371e, 0xCF=0x3749 
+6,5356,33963023,-;[c0] 0x85=0x83c8, 0x86=0x00c3, 0x87=0x1540, 0x28=0x0290 
+6,5357,33963045,-;[c0] sec_bat_get_battery_info : sw_self_discharging (0)
+6,5358,33963065,-;[c0] sec-battery battery: sec_bat_get_battery_info:Vnow(3687mV),Inow(-355mA),Imax(450mA),SOC(19%),Tbat(263),Tchg(0),Twpc(0),sw_self_dis(0)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5359,33963733,-;[c0] sm5703_get_charging_health : charger->is_charging = 1, charger->cable_type = 4, charger->aicl_state = 0
+6,5360,33964373,-;[c0] sm5703_get_charging_health: SM5703_CNTL, nCHG : 0x55, 0
+6,5361,33964384,-;[c0] sm5703_get_charging_health : vbus_status = 32
+6,5362,33964396,-;[c0] sm5703_get_charging_health : Health : 1
+6,5363,33964412,-;[c0] sec-battery battery: sec_bat_time_management: Charging Time : 30 secs
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5364,33964428,-;[c0] sec-battery battery: sec_bat_temperature: HLT(800) HLR(750) HT(550), HR(500), LT(-50), LR(0)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5365,33964442,-;[c0] sec_bat_wc_heating_time_management: Heating time(0), wpc_temp_mode(0)
+6,5366,33965080,-;[c0] sec_bat_swelling_check: status(1), swell_mode(0:0), cv(0x10cc), temp(263)
+6,5367,33965096,-;[c0] sec-battery battery: sec_bat_fullcharged_check: Charging Mode : Normal
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5368,33965111,-;[c0] sec-battery battery: sec_bat_monitor_work: Status(Charging), mode(Normal), Health(Good), Cable(4), level(100%)
+ SUBSYSTEM=platform
+ DEVICE=+platform:battery
+6,5369,33965154,-;[c0] sec_chg_get_property: slow-charging mode
+6,5370,33965171,-;[c0] sec_bat_get_property cable type = 4 sleep_mode = 0
+12,5371,33966420,-;[c2] healthd: battery l=19 v=3687 t=26.3 h=2 st=2 ca=0 cv=0 c=0 chg=u
+11,5372,34104522,-;[c1] init: failed to kill 1 processes for processgroup 3020
+11,5373,34104563,-;[c1] init: killProcessGroup(0, 3020, 9) failed: Success
+14,5374,34132750,-;[c1] init: Service 'wpa_supplicant' (pid 3020) killed by signal 9
+3,5375,34207036,-;[c0] wlan: [2539:E :HDD] wlan_hdd_tdls_exit: 717: TDLS init was not done, exit
+36,5376,34423615,-;[c2] type=1701 audit(1513604295.459:200): auid=4294967295 uid=1021 gid=1000 ses=4294967295 subj=u:r:init:s0 pid=3108 comm="gpsd" exe="/system/bin/gpsd" sig=11
+38,5377,34423644,-;[c2] type=1400 audit(1513604299.329:204): avc: denied { module_request } for pid=2427 comm="wifi@1.0-servic" kmod="net-pf-16-proto-16-family-cld80211" scontext=u:r:hal_wifi_default:s0 tcontext=u:r:kernel:s0 tclass=system permissive=1
+38,5378,34423954,-;[c2] type=1400 audit(1513604299.329:204): avc: denied { module_request } for pid=2427 comm="wifi@1.0-servic" kmod="net-pf-16-proto-16-family-cld80211" scontext=u:r:hal_wifi_default:s0 tcontext=u:r:kernel:s0 tclass=system permissive=1
+36,5379,34423978,-;[c2] type=1300 audit(1513604299.329:204): arch=40000028 syscall=296 per=8 success=yes exit=36 a0=8 a1=ff94bb30 a2=0 a3=1 items=0 ppid=1 pid=2427 auid=4294967295 uid=1010 gid=1010 euid=1010 suid=1010 fsuid=1010 egid=1010 sgid=1010 fsgid=1010 tty=(none) ses=4294967295 comm="wifi@1.0-servic" exe="/system/vendor/bin/hw/android.hardware.wifi@1.0-service" subj=u:r:hal_wifi_default:s0 key=(null)
+36,5380,34425116,-;[c2] type=1300 audit(1513604299.329:204): arch=40000028 syscall=296 per=8 success=yes exit=36 a0=8 a1=ff94bb30 a2=0 a3=1 items=0 ppid=1 pid=2427 auid=4294967295 uid=1010 gid=1010 euid=1010 suid=1010 fsuid=1010 egid=1010 sgid=1010 fsgid=1010 tty=(none) ses=4294967295 comm="wifi@1.0-servic" exe="/system/vendor/bin/hw/android.hardware.wifi@1.0-service" subj=u:r:hal_wifi_default:s0 key=(null)
+36,5381,34425144,-;[c2] type=1327 audit(1513604299.329:204): proctitle="/vendor/bin/hw/android.hardware.wifi@1.0-service"
+36,5382,34425384,-;[c2] type=1327 audit(1513604299.329:204): proctitle="/vendor/bin/hw/android.hardware.wifi@1.0-service"
+36,5383,34425402,-;[c2] type=1320 audit(1513604299.329:204): 
+14,5384,34464217,-;[c1] init: computing context for service 'wpa_supplicant'
+14,5385,34464768,-;[c1] init: starting service 'wpa_supplicant'...
+11,5386,34465766,-;[c1] init: property_set("ro.boottime.wpa_supplicant", "34462972283") failed: property already set
+14,5387,34466392,-;[c6] init: Created socket '/dev/socket/wpa_wlan0', mode 660, user 1010, group 1010
+14,5388,34639581,-;[c1] init: computing context for service 'mobicore'
+11,5389,34639848,-;[c1] init: service mobicore does not have a SELinux domain defined
+14,5390,34639871,-;[c1] init: starting service 'mobicore'...
+11,5391,34640541,-;[c1] init: property_set("ro.boottime.mobicore", "34637898744") failed: property already set
+4,5392,34640705,-;[c7] audit: audit_lost=292 audit_rate_limit=5 audit_backlog_limit=64
+3,5393,34640719,-;[c7] audit: rate limit exceeded
+36,5394,34640782,-;[c0] type=1320 audit(1513604299.329:204): 
+38,5395,34640803,-;[c0] type=1400 audit(1513604299.539:205): avc: denied { execute_no_trans } for pid=3132 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+11,5396,34640816,-;[c7] init: cannot execve('/system/bin/mcDriverDaemon'): No such file or directory
+14,5397,34641372,-;[c1] init: Service 'mobicore' (pid 3132) exited with status 127
+14,5398,34641411,-;[c1] init: Sending signal 9 to service 'mobicore' (pid 3132) process group...
+11,5399,34641558,-;[c1] init: kill(3132, 9) failed: No such process
+14,5400,35394156,-;[c4] init: computing context for service 'gpsd'
+11,5401,35394701,-;[c4] init: service gpsd does not have a SELinux domain defined
+14,5402,35394728,-;[c4] init: starting service 'gpsd'...
+11,5403,35395375,-;[c4] init: property_set("ro.boottime.gpsd", "35392764782") failed: property already set
+38,5404,35488139,-;[c1] type=1400 audit(1513604299.539:205): avc: denied { execute_no_trans } for pid=3132 comm="init" path="/system/bin/mcDriverDaemon" dev="mmcblk0p19" ino=299 scontext=u:r:init:s0 tcontext=u:object_r:system_file:s0 tclass=file permissive=1
+36,5405,35488168,-;[c1] type=1400 audit(1513604300.389:206): avc: granted { open } for pid=3133 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,5406,35488765,-;[c0] type=1400 audit(1513604300.389:206): avc: granted { open } for pid=3133 comm="gpsd" path="/dev/pmsg0" dev="tmpfs" ino=13373 scontext=u:r:init:s0 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file
+36,5407,35488795,-;[c0] type=1300 audit(1513604300.389:206): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=eec240cd a2=a0001 a3=0 items=0 ppid=1 pid=3133 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,5408,35488906,-;[c0] type=1300 audit(1513604300.389:206): arch=40000028 syscall=322 per=8 success=yes exit=4 a0=ffffff9c a1=eec240cd a2=a0001 a3=0 items=0 ppid=1 pid=3133 auid=4294967295 uid=1021 gid=1000 euid=1021 suid=1021 fsuid=1021 egid=1000 sgid=1000 fsgid=1000 tty=(none) ses=4294967295 comm="gpsd" exe="/system/bin/gpsd" subj=u:r:init:s0 key=(null)
+36,5409,35488925,-;[c0] type=1327 audit(1513604300.389:206): proctitle="/system/bin/gpsd"
+36,5410,35489185,-;[c0] type=1327 audit(1513604300.389:206): proctitle="/system/bin/gpsd"
+36,5411,35489203,-;[c0] type=1320 audit(1513604300.389:206): 
+36,5412,35511822,-;[c2] type=1320 audit(1513604300.389:206): 
+38,5413,35511848,-;[c2] type=1400 audit(1513604300.409:207): avc: denied { ptrace } for pid=3137 comm="crash_dump32" scontext=u:r:crash_dump:s0 tcontext=u:r:init:s0 tclass=process permissive=1
+14,5414,35553389,-;[c4] init: Untracked pid 3137 exited with status 0
+14,5415,35555269,-;[c4] init: Service 'gpsd' (pid 3133) killed by signal 11
+14,5416,35555308,-;[c4] init: Sending signal 9 to service 'gpsd' (pid 3133) process group...
+11,5417,35555574,-;[c4] init: kill(3133, 9) failed: No such process
+14,5418,36988375,-;[c4] init: Service 'bootanim' (pid 2551) exited with status 0
+14,5419,37070501,-;[c4] init: processing action (sys.boot_completed=1)
+11,5420,37070693,-;[c4] init: cannot find '/system/bin/sem_daemon', disabling 'sem_daemon': No such file or directory
+14,5421,37070734,-;[c4] init: processing action (sys.boot_completed=1 && sys.logbootcomplete=1)
+14,5422,37070977,-;[c4] init: computing context for service 'exec 2 (/system/bin/bootstat)'
+14,5423,37071200,-;[c4] init: starting service 'exec 2 (/system/bin/bootstat)'...
+14,5424,37071805,-;[c4] init: SVC_EXEC pid 3142 (uid 0 gid 0+0 context default) started; waiting...
+14,5425,37089020,-;[c4] init: Service 'exec 2 (/system/bin/bootstat)' (pid 3142) exited with status 0 waiting took 0.018180 seconds
+14,5426,37089143,-;[c4] init: computing context for service 'exec 3 (/system/bin/bootstat)'
+14,5427,37089445,-;[c4] init: starting service 'exec 3 (/system/bin/bootstat)'...
+14,5428,37090035,-;[c4] init: SVC_EXEC pid 3143 (uid 0 gid 0+0 context default) started; waiting...
+14,5429,37102880,-;[c4] init: Service 'exec 3 (/system/bin/bootstat)' (pid 3143) exited with status 0 waiting took 0.013708 seconds
+14,5430,37102998,-;[c4] init: computing context for service 'exec 4 (/system/bin/bootstat)'
+14,5431,37103277,-;[c4] init: starting service 'exec 4 (/system/bin/bootstat)'...
+14,5432,37103803,-;[c4] init: SVC_EXEC pid 3144 (uid 0 gid 0+0 context default) started; waiting...
+14,5433,37117969,-;[c4] init: Service 'exec 4 (/system/bin/bootstat)' (pid 3144) exited with status 0 waiting took 0.014941 seconds
+14,5434,37118095,-;[c4] init: computing context for service 'exec 5 (/system/bin/bootstat)'
+14,5435,37118371,-;[c4] init: starting service 'exec 5 (/system/bin/bootstat)'...
+14,5436,37118941,-;[c4] init: SVC_EXEC pid 3145 (uid 0 gid 0+0 context default) started; waiting...
+14,5437,37133245,-;[c4] init: Service 'exec 5 (/system/bin/bootstat)' (pid 3145) exited with status 0 waiting took 0.015112 seconds
+14,5438,37133342,-;[c4] init: processing action (sys.boot_completed=1 && sys.wifitracing.started=0)
