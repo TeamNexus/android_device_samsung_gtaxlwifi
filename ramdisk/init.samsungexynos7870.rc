@@ -1,6 +1,6 @@
 import init.samsungexynos7870.usb.rc
-import init.rilcommon.rc
 import init.wifi.rc
+import init.rilcommon.rc
 
 # Samsung stock init.rc additions
 import init.samsung.rc
@@ -11,7 +11,7 @@ on early-init
     mount debugfs /sys/kernel/debug /sys/kernel/debug
 
 on init
-    export LD_SHIM_LIBS "/system/bin/gpsd|libdmitry-shim.so"
+    export LD_SHIM_LIBS "/system/bin/gpsd|libdmitry-shim.so:/system/lib/libexynoscamera.so|/system/vendor/lib/libcamhelpr.so"
 
     start watchdogd
 
@@ -23,8 +23,16 @@ on init
 
     # Support legacy paths
     symlink /sdcard /mnt/sdcard
+    symlink /sdcard /storage/sdcard0
+    symlink /sdcard1 /storage/sdcard1
+    symlink /sdcard1 /mnt/extSdCard
+    symlink /sdcard1 /mnt/sdcard1
+    symlink /sdcard1 /external_sd
+    symlink /storage/usbdisk /mnt/usbdisk
 
     export EXTERNAL_STORAGE /sdcard
+    export SECONDARY_STORAGE /storage/extSdCard
+
     symlink /data/app /factory
     symlink /dev/block/platform/13540000.dwmmc0/by-name/PERSISTENT /dev/block/persistent
     symlink /dev/block/platform/13540000.dwmmc0/by-name/STEADY /dev/block/steady
@@ -64,13 +72,6 @@ on post-fs-data
     chown audio audio /dev/i2c-20
 
 on boot
-
-#Load Wifi Driver
-    insmod /system/lib/modules/qca_cld/qca_cld_wlan.ko
-    setprop wlan.driver.status ok
-
-       # Set permissions for firmware path control
-    chown wifi wifi /sys/module/wlan/parameters/fwpath
 
     # override init.rc to keep plenty of large order chunks around
     # to improve allocation times
@@ -895,6 +896,7 @@ service prepare_param /system/bin/prepare_param.sh /dev/block/platform/13540000.
     class core
     user root
     group root
+    seclabel u:r:prepare_param:s0
     oneshot
 
 # Secure Storage startup

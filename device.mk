@@ -31,11 +31,6 @@ TARGET_SCREEN_WIDTH := 1200
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_BOOTANIMATION_HALF_RES := true
 
-#BlueTooth
-PRODUCT_PACKAGES += \
-    android.hardware.bluetooth@1.0-impl \
-    libbt-vendor
-
 # Flat device tree for boot image
 #PRODUCT_PACKAGES += \
 #    dtbhtoolExynos
@@ -50,10 +45,6 @@ PRODUCT_PACKAGES += \
     init.wifi.rc \
     ueventd.samsungexynos7870.rc
 
-# cpboot-daemon
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/ramdisk/cbd:root/sbin/cbd
-
 # Permissions
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.audio.low_latency.xml:system/etc/permissions/android.hardware.audio.low_latency.xml \
@@ -65,6 +56,7 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.camera.raw.xml:system/etc/permissions/android.hardware.camera.raw.xml \
     frameworks/native/data/etc/android.hardware.ethernet.xml:system/etc/permissions/android.hardware.ethernet.xml \
     frameworks/native/data/etc/android.hardware.location.gps.xml:system/etc/permissions/android.hardware.location.gps.xml \
+    frameworks/native/data/etc/android.hardware.telephony.gsm.xml:system/etc/permissions/android.hardware.telephony.gsm.xml \
     frameworks/native/data/etc/android.hardware.touchscreen.multitouch.jazzhand.xml:system/etc/permissions/android.hardware.touchscreen.multitouch.jazzhand.xml \
     frameworks/native/data/etc/android.hardware.usb.accessory.xml:system/etc/permissions/android.hardware.usb.accessory.xml \
     frameworks/native/data/etc/android.hardware.usb.host.xml:system/etc/permissions/android.hardware.usb.host.xml \
@@ -72,21 +64,15 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.vulkan.version-1_0_3.xml:system/etc/permissions/android.hardware.vulkan.version.xml \
     frameworks/native/data/etc/android.software.freeform_window_management.xml:system/etc/permissions/android.software.freeform_window_management.xml \
     frameworks/native/data/etc/android.hardware.sensor.accelerometer.xml:system/etc/permissions/android.hardware.sensor.accelerometer.xml \
-    frameworks/native/data/etc/android.hardware.sensor.barometer.xml:system/etc/permissions/android.hardware.sensor.barometer.xml \
-    frameworks/native/data/etc/android.hardware.sensor.compass.xml:system/etc/permissions/android.hardware.sensor.compass.xml \
-    frameworks/native/data/etc/android.hardware.sensor.gyroscope.xml:system/etc/permissions/android.hardware.sensor.gyroscope.xml \
-    frameworks/native/data/etc/android.hardware.sensor.heartrate.xml:system/etc/permissions/android.hardware.sensor.heartrate.xml \
     frameworks/native/data/etc/android.hardware.sensor.light.xml:system/etc/permissions/android.hardware.sensor.light.xml \
     frameworks/native/data/etc/android.hardware.sensor.proximity.xml:system/etc/permissions/android.hardware.sensor.proximity.xml \
-    frameworks/native/data/etc/android.hardware.sensor.stepcounter.xml:system/etc/permissions/android.hardware.sensor.stepcounter.xml \
-    frameworks/native/data/etc/android.hardware.sensor.stepdetector.xml:system/etc/permissions/android.hardware.sensor.stepdetector.xml \
     frameworks/native/data/etc/android.hardware.wifi.direct.xml:system/etc/permissions/android.hardware.wifi.direct.xml \
     frameworks/native/data/etc/android.hardware.wifi.xml:system/etc/permissions/android.hardware.wifi.xml \
+    frameworks/native/data/etc/android.software.sip.voip.xml:system/etc/permissions/android.software.sip.voip.xml \
+    frameworks/native/data/etc/android.software.sip.xml:system/etc/permissions/android.software.sip.xml \
     frameworks/native/data/etc/com.nxp.mifare.xml:system/etc/permissions/com.nxp.mifare.xml \
     frameworks/native/data/etc/handheld_core_hardware.xml:system/etc/permissions/handheld_core_hardware.xml
 
-
-#display
 #PRODUCT_PACKAGES += \
 #    gralloc.exynos5
 
@@ -99,15 +85,31 @@ PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.1-impl \
     android.hardware.graphics.mapper@2.0-impl
 
+# RenderScript HAL
+#PRODUCT_PACKAGES += \
+#    android.hardware.renderscript@1.0-impl
+
+# DRM
+#PRODUCT_PACKAGES += \
+#    android.hardware.drm@1.0-impl
 
 # hardware/samsung/AdvancedDisplay (MDNIE)
 #PRODUCT_PACKAGES += \
- #   AdvancedDisplay
+#    AdvancedDisplay
 
+# Camera
+PRODUCT_PACKAGES += \
+    camera.exynos5 \
+    libcamhelpr \
+    Snap \
+    camera.device@1.0-impl \
+    camera.device@3.2-impl \
+    android.hardware.camera.provider@2.4-impl
 # Radio
 PRODUCT_PACKAGES += \
     libxml2 \
     libprotobuf-cpp-full
+
 
 PRODUCT_PACKAGES += \
     SamsungServiceMode
@@ -128,15 +130,25 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf
 
 PRODUCT_PACKAGES += \
-    hostapd \
+    p2p_supplicant_overlay.conf \
+    wpa_supplicant_overlay.conf \
+    hostapd.accept \
+    hostapd.deny \
+    hostapd_default.conf \
     libqsap_sdk \
     libQWiFiSoftApCfg \
     libwpa_client \
-    wifiloader \
+    libnetcmdiface \
     wpa_supplicant \
     wpa_supplicant.conf \
-    android.hardware.wifi@1.0-service
+    android.hardware.wifi@1.0-service \
+    wificond \
+    wifiloader
 
+# Bluetooth
+PRODUCT_PACKAGES += \
+    android.hardware.bluetooth@1.0-impl \
+    libbt-vendor
 
 # Audio
 PRODUCT_COPY_FILES += \
@@ -165,12 +177,11 @@ PRODUCT_COPY_FILES += \
 
 # GPS
 PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/gps/gps.cfg:system/etc/gps.cfg \
     $(LOCAL_PATH)/configs/gps/gps.conf:system/etc/gps.conf \
-    $(LOCAL_PATH)/configs/gps/gps.xml:system/etc/gps.xml
 
 PRODUCT_PACKAGES += \
-        android.hardware.gnss@1.0-impl \
-        android.hardware.gnss@1.0-service
+    android.hardware.gnss@1.0-impl
 
 # Keys
 PRODUCT_COPY_FILES += \
@@ -195,7 +206,13 @@ PRODUCT_PACKAGES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    lights.universal7870
+    lights.universal7870 \
+    android.hardware.light@2.0-impl
+
+# Sensors
+PRODUCT_PACKAGES += \
+    android.hardware.sensors@1.0-impl \
+    android.hardware.vibrator@1.0-impl
 
 # Root
 PRODUCT_PACKAGES += \
